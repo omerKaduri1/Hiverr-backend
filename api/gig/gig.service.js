@@ -9,9 +9,6 @@ const { ObjectId } = mongodb
 async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice: Infinity, deliveryTime: Infinity }) {
     try {
         const criteria = {}
-        // const criteria = {
-        //     title: { $regex: filterBy.txt, $options: 'i' }
-        // }
         if (filterBy.txt) {
             criteria.$or = [
                 { title: { $regex: filterBy.txt, $options: 'i' } },

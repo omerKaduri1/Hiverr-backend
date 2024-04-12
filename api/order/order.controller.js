@@ -6,9 +6,9 @@ export async function getOrdersById(req, res) {
         const filter = JSON.parse(req.query.params)
         let orders
         if (filter.buyer) {
-            orders = await orderService.buyerQuery(filter)
+            orders = await orderService.buyerQuery()
         } else {
-            orders = await orderService.sellerQuery(filter)
+            orders = await orderService.sellerQuery()
         }
         res.json(orders)
     } catch (err) {
