@@ -4,6 +4,11 @@ import cors from 'cors'
 import express from 'express'
 import cookieParser from 'cookie-parser'
 
+import { authRoutes } from './api/auth/auth.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
+import { gigRoutes } from './api/gig/gig.routes.js'
+import { orderRoutes } from './api/order/order.routes.js'
+
 const app = express()
 const server = http.createServer(app)
 
@@ -27,6 +32,7 @@ if (process.env.NODE_ENV === 'production') {
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/gig', gigRoutes)
+app.use('/api/order', orderRoutes)
 
 
 app.get('/**', (req, res) => {
@@ -35,6 +41,7 @@ app.get('/**', (req, res) => {
 
 
 import { logger } from './services/logger.service.js'
+import { orderRoutes } from './api/order/order.routes.js'
 const port = process.env.PORT || 3030
 server.listen(port, () => {
     logger.info('Server is running on port: ' + port)
