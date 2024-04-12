@@ -1,0 +1,27 @@
+12.4.2024, 17:24:17 - INFO - Server is running on port: 3030 
+12.4.2024, 17:31:44 - INFO - Server is running on port: 3030 
+12.4.2024, 17:33:48 - INFO - Server is running on port: 3030 
+12.4.2024, 17:35:40 - DEBUG - auth.service - signup with username: Amitfrid, fullname: Amit Frid 
+12.4.2024, 17:35:40 - DEBUG - auth.route - new account created: {"username":"Amitfrid","password":"$2b$10$5Cig.R3BYeQDWRNS7fpkE.M3yA8KV2qo7lkIYZtb1JNCOt8Z5Wqhq","fullname":"Amit Frid","_id":"661946bcb03ce7b43edf63b8"} 
+12.4.2024, 17:35:40 - DEBUG - auth.service - login with username: Amitfrid 
+12.4.2024, 17:35:40 - INFO - User signup: | {"_id":"661946bcb03ce7b43edf63b8","username":"Amitfrid","fullname":"Amit Frid","imgUrl":null} 
+12.4.2024, 17:36:44 - DEBUG - auth.service - signup with username: omerKaduri, fullname: Omer Kaduri 
+12.4.2024, 17:36:44 - DEBUG - auth.route - new account created: {"username":"omerKaduri","password":"$2b$10$Q.MlbT/.TBVFQC/PFqYzpOWIeQliTnPPgNsvc1cU6.LjFZZJ1mNvS","fullname":"Omer Kaduri","_id":"661946fcb03ce7b43edf63b9"} 
+12.4.2024, 17:36:44 - DEBUG - auth.service - login with username: omerKaduri 
+12.4.2024, 17:36:44 - INFO - User signup: | {"_id":"661946fcb03ce7b43edf63b9","username":"omerKaduri","fullname":"Omer Kaduri","imgUrl":null} 
+12.4.2024, 17:37:26 - DEBUG - auth.service - signup with username: leanneB, fullname: Leanne B 
+12.4.2024, 17:37:26 - DEBUG - auth.route - new account created: {"username":"leanneB","password":"$2b$10$/JN1jYegq8w.1OHy9cVUB.LmzMnYqtErGggf64BXPWTVDB9ERB9mG","fullname":"Leanne B","_id":"66194726b03ce7b43edf63ba"} 
+12.4.2024, 17:37:26 - DEBUG - auth.service - login with username: leanneB 
+12.4.2024, 17:37:26 - INFO - User signup: | {"_id":"66194726b03ce7b43edf63ba","username":"leanneB","fullname":"Leanne B","imgUrl":null} 
+12.4.2024, 17:38:02 - DEBUG - auth.service - login with username: leanneB 
+12.4.2024, 17:38:03 - INFO - User login:  | {"_id":"66194726b03ce7b43edf63ba","username":"leanneB","fullname":"Leanne B","imgUrl":null} 
+12.4.2024, 17:38:13 - DEBUG - auth.service - login with username: leanneB 
+12.4.2024, 17:38:14 - INFO - User login:  | {"_id":"66194726b03ce7b43edf63ba","username":"leanneB","fullname":"Leanne B","imgUrl":null} 
+12.4.2024, 17:39:28 - INFO - Sample Logger Middleware 
+12.4.2024, 17:39:30 - DEBUG - Getting Gigs: | {} 
+12.4.2024, 17:42:20 - DEBUG - auth.service - login with username: leanneB 
+12.4.2024, 17:42:20 - INFO - User login:  | {"_id":"66194726b03ce7b43edf63ba","username":"leanneB","fullname":"Leanne B","imgUrl":null} 
+12.4.2024, 17:47:37 - INFO - Server is running on port: 3030 
+12.4.2024, 17:47:57 - INFO - Server is running on port: 3030 
+12.4.2024, 17:48:05 - INFO - Server is running on port: 3030 
+12.4.2024, 17:49:08 - INFO - Server is running on port: 3030 
