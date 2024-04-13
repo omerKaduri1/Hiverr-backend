@@ -4,6 +4,7 @@ import cors from 'cors'
 import express from 'express'
 import cookieParser from 'cookie-parser'
 
+import { logger } from './services/logger.service.js'
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { gigRoutes } from './api/gig/gig.routes.js'
@@ -40,8 +41,6 @@ app.get('/**', (req, res) => {
 })
 
 
-import { logger } from './services/logger.service.js'
-import { orderRoutes } from './api/order/order.routes.js'
 const port = process.env.PORT || 3030
 server.listen(port, () => {
     logger.info('Server is running on port: ' + port)

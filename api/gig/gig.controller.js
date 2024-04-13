@@ -11,7 +11,10 @@ export async function getGigs(req, res) {
             maxPrice: req.query.maxPrice || Infinity,
             deliveryTime: req.query.deliveryTime || Infinity
         }
-        const gigs = await gigService.query(filterBy)
+        const sortBy = req.query.sortBy || 'recommended'
+        console.log(sortBy);
+        console.log('from controller, filterBy:', filterBy);
+        const gigs = await gigService.query(filterBy, sortBy)
         res.json(gigs)
     } catch (err) {
         logger.error('Failed to get gigs', err)
@@ -32,6 +35,7 @@ export async function getGigById(req, res) {
 
 export async function addGig(req, res) {
     const { loggedinUser } = req
+    console.log(loggedinUser);
     try {
         const gig = req.body
         gig.owner = loggedinUser

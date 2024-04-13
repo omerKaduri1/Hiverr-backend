@@ -18,8 +18,11 @@ export async function getOrdersById(req, res) {
 }
 
 export async function addOrder(req, res) {
+    const { loggedinUser } = req
+    console.log(loggedinUser);
     try {
         const order = req.body
+        order.buyer = loggedinUser
         const addedOrder = await orderService.add(order)
         res.json(addedOrder)
     } catch (err) {

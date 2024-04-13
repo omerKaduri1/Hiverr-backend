@@ -1,12 +1,11 @@
 import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
-import { reviewService } from '../review/review.service.js'
 import mongodb from 'mongodb'
 const { ObjectId } = mongodb
 
 export const userService = {
     add,
-    getById,
+    // getById,
     update,
     remove,
     query,
@@ -32,25 +31,25 @@ async function query(filterBy = {}) {
     }
 }
 
+// async function getById(userId) {
+//     try {
+//         const collection = await dbService.getCollection('user')
+//         const user = await collection.findOne({ _id: new ObjectId(userId) })
+//         delete user.password
 
-async function getById(userId) {
-    try {
-        const collection = await dbService.getCollection('user')
-        const user = await collection.findOne({ _id: new ObjectId(userId) })
-        delete user.password
+//         user.givenReviews = await reviewService.query({ byUserId: new ObjectId(user._id) })
+//         user.givenReviews = user.givenReviews.map(review => {
+//             delete review.byUser
+//             return review
+//         })
 
-        user.givenReviews = await reviewService.query({ byUserId: new ObjectId(user._id) })
-        user.givenReviews = user.givenReviews.map(review => {
-            delete review.byUser
-            return review
-        })
+//         return user
+//     } catch (err) {
+//         logger.error(`while finding user by id: ${userId}`, err)
+//         throw err
+//     }
+// }
 
-        return user
-    } catch (err) {
-        logger.error(`while finding user by id: ${userId}`, err)
-        throw err
-    }
-}
 async function getByUsername(username) {
     try {
         const collection = await dbService.getCollection('user')

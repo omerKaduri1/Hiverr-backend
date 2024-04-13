@@ -6,7 +6,7 @@ const { ObjectId } = mongodb
 
 // const PAGE_SIZE = 3
 
-async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice: Infinity, deliveryTime: Infinity }) {
+async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice: Infinity, deliveryTime: Infinity }, sortBy='recommended') {
     try {
         const criteria = {}
         if (filterBy.txt) {
@@ -21,29 +21,31 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
         }
 
         if (filterBy.minPrice !== '') {
-            criteria.price = { $gte: filterBy.minPrice }
+            criteria.price = { $gte: +filterBy.minPrice }
         }
 
         if (filterBy.maxPrice !== Infinity) {
-            criteria.price = { ...criteria.price, $lte: filterBy.maxPrice }
+            criteria.price = { ...criteria.price, $lte: +filterBy.maxPrice }
         }
 
         if (filterBy.deliveryTime !== Infinity) {
-            criteria.daysToMake = { $lte: filterBy.deliveryTime }
+            criteria.daysToMake = { $lte: +filterBy.deliveryTime }
         }
-
 
         const collection = await dbService.getCollection('gig')
         const gigs = await collection.find(criteria).toArray()
+        if (sortBy === 'recommended') {
+            gigs.sort((gig1, gig2) => {
+                const gig1ReviewsAvg = utilService.getAvgRating(gig1.reviews)
+                const gig2ReviewsAvg = utilService.getAvgRating(gig2.reviews)
+                return gig2ReviewsAvg - gig1ReviewsAvg
+            })
+        } else if (sortBy === 'newest') {
+            gigs.sort((gig1, gig2) => gig1.createdAt - gig2.createdAt)
+        } else if (sortBy === 'mostReviewed') {
+            gigs.sort((gig1, gig2) => gig2.reviews.length - gig1.reviews.length)
+        }
         return gigs
-        // var gigCursor = await collection.find(criteria)
-
-        // if (filterBy.pageIdx !== undefined) {
-        //     gigCursor.skip(filterBy.pageIdx * PAGE_SIZE).limit(PAGE_SIZE)
-        // }
-
-        // const gigs = gigCursor.toArray()
-        // return gigs
     } catch (err) {
         logger.error('cannot find gigs', err)
         throw err

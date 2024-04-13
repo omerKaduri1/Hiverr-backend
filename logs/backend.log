@@ -25,3 +25,94 @@
 12.4.2024, 17:47:57 - INFO - Server is running on port: 3030 
 12.4.2024, 17:48:05 - INFO - Server is running on port: 3030 
 12.4.2024, 17:49:08 - INFO - Server is running on port: 3030 
+12.4.2024, 17:51:14 - INFO - Server is running on port: 3030 
+12.4.2024, 17:52:02 - INFO - Server is running on port: 3030 
+12.4.2024, 17:56:53 - INFO - Server is running on port: 3030 
+12.4.2024, 17:58:00 - INFO - Server is running on port: 3030 
+12.4.2024, 18:01:46 - INFO - Sample Logger Middleware 
+12.4.2024, 18:01:46 - DEBUG - Getting Gigs: | {"category":"logo-design"} 
+12.4.2024, 18:02:23 - DEBUG - Getting Gigs: | {"txt":"logo"} 
+12.4.2024, 18:02:23 - INFO - Sample Logger Middleware 
+12.4.2024, 18:02:45 - INFO - Sample Logger Middleware 
+12.4.2024, 18:02:45 - DEBUG - Getting Gigs: | {"txt":"logo","minPrice":"200"} 
+12.4.2024, 18:02:52 - INFO - Sample Logger Middleware 
+12.4.2024, 18:02:52 - DEBUG - Getting Gigs: | {"txt":"logo","minPrice":"100"} 
+12.4.2024, 18:03:03 - INFO - Sample Logger Middleware 
+12.4.2024, 18:03:03 - DEBUG - Getting Gigs: | {"txt":"logo","minPrice":"50"} 
+12.4.2024, 18:03:17 - INFO - Sample Logger Middleware 
+12.4.2024, 18:03:17 - DEBUG - Getting Gigs: | {"txt":"logo","maxPrice":"50"} 
+12.4.2024, 18:03:22 - DEBUG - Getting Gigs: | {"txt":"logo","maxPrice":"400"} 
+12.4.2024, 18:03:22 - INFO - Sample Logger Middleware 
+12.4.2024, 18:03:25 - INFO - Sample Logger Middleware 
+12.4.2024, 18:03:25 - DEBUG - Getting Gigs: | {"maxPrice":"400"} 
+12.4.2024, 18:03:40 - INFO - Sample Logger Middleware 
+12.4.2024, 18:03:40 - DEBUG - Getting Gigs: | {"maxPrice":"400000000"} 
+12.4.2024, 18:04:50 - INFO - Server is running on port: 3030 
+12.4.2024, 18:10:21 - INFO - Sample Logger Middleware 
+12.4.2024, 18:10:21 - DEBUG - Getting Gigs: | {"maxPrice":"400000000","minPrice":"''"} 
+12.4.2024, 18:10:40 - DEBUG - Getting Gigs: | {"maxPrice":"233","minPrice":"155"} 
+12.4.2024, 18:10:40 - INFO - Sample Logger Middleware 
+12.4.2024, 18:11:21 - INFO - Sample Logger Middleware 
+12.4.2024, 18:11:21 - DEBUG - Getting Gigs: | {"deliveryTime":"1"} 
+12.4.2024, 18:11:26 - INFO - Sample Logger Middleware 
+12.4.2024, 18:11:26 - DEBUG - Getting Gigs: | {"deliveryTime":"3"} 
+12.4.2024, 18:11:35 - INFO - Sample Logger Middleware 
+12.4.2024, 18:11:35 - DEBUG - Getting Gigs: | {"txt":"logo"} 
+12.4.2024, 18:11:51 - INFO - Sample Logger Middleware 
+12.4.2024, 18:11:51 - DEBUG - Getting Gigs: | {"category":"logo-design"} 
+12.4.2024, 18:11:55 - INFO - Sample Logger Middleware 
+12.4.2024, 18:11:55 - DEBUG - Getting Gigs: | {"txt":"logo","category":"logo-design"} 
+12.4.2024, 18:12:30 - INFO - Sample Logger Middleware 
+12.4.2024, 18:12:30 - DEBUG - Getting Gigs: | {"minPrice":"155"} 
+12.4.2024, 18:12:42 - INFO - Sample Logger Middleware 
+12.4.2024, 18:12:42 - DEBUG - Getting Gigs: | {"maxPrice":"233"} 
+12.4.2024, 18:14:00 - INFO - Server is running on port: 3030 
+12.4.2024, 18:14:12 - INFO - Sample Logger Middleware 
+12.4.2024, 18:14:12 - DEBUG - Getting Gigs: | {"minPrice":"155"} 
+12.4.2024, 18:14:29 - INFO - Sample Logger Middleware 
+12.4.2024, 18:14:29 - DEBUG - Getting Gigs: | {"deliveryTime":"3"} 
+12.4.2024, 18:14:46 - INFO - Sample Logger Middleware 
+12.4.2024, 18:14:46 - DEBUG - Getting Gigs: | {"minPrice":"155","deliveryTime":"3"} 
+12.4.2024, 18:15:02 - INFO - Sample Logger Middleware 
+12.4.2024, 18:15:02 - DEBUG - Getting Gigs: | {"maxPrice":"233","deliveryTime":"3"} 
+12.4.2024, 18:15:34 - DEBUG - Getting Gigs: | {"maxPrice":"233","minPrice":"155","deliveryTime":"3"} 
+12.4.2024, 18:15:34 - INFO - Sample Logger Middleware 
+12.4.2024, 18:15:47 - INFO - Sample Logger Middleware 
+12.4.2024, 18:15:47 - DEBUG - Getting Gigs: | {"maxPrice":"400000","minPrice":"''","deliveryTime":"3"} 
+12.4.2024, 18:15:55 - INFO - Sample Logger Middleware 
+12.4.2024, 18:15:55 - DEBUG - Getting Gigs: | {"maxPrice":"400000","minPrice":"","deliveryTime":"3"} 
+12.4.2024, 18:16:02 - INFO - Sample Logger Middleware 
+12.4.2024, 18:16:02 - DEBUG - Getting Gigs: | {"maxPrice":"40","minPrice":"","deliveryTime":"3"} 
+12.4.2024, 18:16:09 - INFO - Sample Logger Middleware 
+12.4.2024, 18:16:09 - DEBUG - Getting Gigs: | {"maxPrice":"90","minPrice":"","deliveryTime":"3"} 
+12.4.2024, 18:20:02 - INFO - Server is running on port: 3030 
+12.4.2024, 18:30:28 - INFO - Server is running on port: 3030 
+12.4.2024, 18:30:37 - INFO - Server is running on port: 3030 
+12.4.2024, 18:43:26 - INFO - Server is running on port: 3030 
+12.4.2024, 18:44:00 - DEBUG - Getting Gigs: | {"sortBy":"newest"} 
+12.4.2024, 18:44:00 - INFO - Sample Logger Middleware 
+12.4.2024, 18:44:00 - ERROR - Failed to get gigs | ReferenceError: rep is not defined 
+12.4.2024, 18:44:55 - INFO - Server is running on port: 3030 
+12.4.2024, 18:45:05 - INFO - Sample Logger Middleware 
+12.4.2024, 18:45:05 - DEBUG - Getting Gigs: | {"sortBy":"newest"} 
+12.4.2024, 18:45:33 - INFO - Sample Logger Middleware 
+12.4.2024, 18:45:33 - DEBUG - Getting Gigs: | {"sortBy":"mostReviewed"} 
+12.4.2024, 18:45:34 - ERROR - cannot find gigs | TypeError: Cannot read properties of undefined (reading 'length') 
+12.4.2024, 18:45:34 - ERROR - Failed to get gigs | TypeError: Cannot read properties of undefined (reading 'length') 
+13.4.2024, 15:02:35 - INFO - Server is running on port: 3030 
+13.4.2024, 15:02:51 - INFO - Server is running on port: 3030 
+13.4.2024, 15:02:56 - INFO - Sample Logger Middleware 
+13.4.2024, 15:02:56 - DEBUG - Getting Gigs: | {"sortBy":"mostReviewed"} 
+13.4.2024, 15:02:56 - ERROR - cannot find gigs | TypeError: Cannot read properties of undefined (reading 'length') 
+13.4.2024, 15:02:56 - ERROR - Failed to get gigs | TypeError: Cannot read properties of undefined (reading 'length') 
+13.4.2024, 15:03:22 - INFO - Sample Logger Middleware 
+13.4.2024, 15:03:22 - DEBUG - Getting Gigs: | {"sortBy":"recommended"} 
+13.4.2024, 15:03:22 - ERROR - Failed to get gigs | TypeError: Cannot read properties of undefined (reading 'reduce') 
+13.4.2024, 15:03:22 - ERROR - cannot find gigs | TypeError: Cannot read properties of undefined (reading 'reduce') 
+13.4.2024, 15:03:44 - DEBUG - Getting Gigs: | {"sortBy":"recommended"} 
+13.4.2024, 15:03:44 - INFO - Sample Logger Middleware 
+13.4.2024, 15:03:44 - ERROR - Failed to get gigs | TypeError: Cannot read properties of undefined (reading 'reduce') 
+13.4.2024, 15:03:44 - ERROR - cannot find gigs | TypeError: Cannot read properties of undefined (reading 'reduce') 
+13.4.2024, 15:05:29 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON 
+13.4.2024, 15:06:42 - INFO - Server is running on port: 3030 
+13.4.2024, 15:09:13 - INFO - Server is running on port: 3030 

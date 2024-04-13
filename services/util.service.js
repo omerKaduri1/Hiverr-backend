@@ -107,6 +107,13 @@ function randomPastTime() {
     return Date.now() - pastTime
 }
 
+
+function getAvgRating(reviews) {
+    let summedRating = reviews.reduce((acc, review) => review.rate + acc, 0)
+    const avgRating = summedRating / reviews.length
+    return avgRating.toFixed(1)
+}
+
 export const utilService = {
     makeId,
     getRandomInt,
@@ -114,5 +121,6 @@ export const utilService = {
     generateRandomName,
     timeAgo,
     generateRandomImg,
-    randomPastTime
+    randomPastTime,
+    getAvgRating
 }
