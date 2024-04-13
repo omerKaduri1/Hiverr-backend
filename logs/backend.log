@@ -116,3 +116,29 @@
 13.4.2024, 15:05:29 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON 
 13.4.2024, 15:06:42 - INFO - Server is running on port: 3030 
 13.4.2024, 15:09:13 - INFO - Server is running on port: 3030 
+13.4.2024, 17:12:21 - INFO - Server is running on port: 3030 
+13.4.2024, 17:12:34 - INFO - Server is running on port: 3030 
+13.4.2024, 17:13:17 - INFO - Sample Logger Middleware 
+13.4.2024, 17:13:17 - DEBUG - Getting Gigs: | {"sellerLevel":"1"} 
+13.4.2024, 17:13:34 - INFO - Sample Logger Middleware 
+13.4.2024, 17:13:34 - DEBUG - Getting Gigs: | {"sellerLevel":"2"} 
+13.4.2024, 17:13:38 - INFO - Sample Logger Middleware 
+13.4.2024, 17:13:38 - DEBUG - Getting Gigs: | {"sellerLevel":"3"} 
+13.4.2024, 17:14:03 - INFO - Server is running on port: 3030 
+13.4.2024, 17:14:05 - INFO - Sample Logger Middleware 
+13.4.2024, 17:14:05 - DEBUG - Getting Gigs: | {"sellerLevel":"3"} 
+13.4.2024, 17:14:51 - INFO - Server is running on port: 3030 
+13.4.2024, 17:14:56 - INFO - Sample Logger Middleware 
+13.4.2024, 17:14:56 - DEBUG - Getting Gigs: | {"sellerLevel":"3"} 
+13.4.2024, 17:17:21 - INFO - Server is running on port: 3030 
+13.4.2024, 17:18:33 - INFO - Server is running on port: 3030 
+13.4.2024, 17:18:52 - INFO - Server is running on port: 3030 
+13.4.2024, 17:19:01 - INFO - Sample Logger Middleware 
+13.4.2024, 17:19:01 - DEBUG - Getting Gigs: | {"sellerLevel":"3"} 
+13.4.2024, 17:19:40 - INFO - Server is running on port: 3030 
+13.4.2024, 17:19:43 - INFO - Sample Logger Middleware 
+13.4.2024, 17:19:43 - DEBUG - Getting Gigs: | {"sellerLevel":"3"} 
+13.4.2024, 17:20:18 - INFO - Sample Logger Middleware 
+13.4.2024, 17:20:18 - DEBUG - Getting Gigs: | {"sellerLevel":"2"} 
+13.4.2024, 17:20:37 - INFO - Server is running on port: 3030 
+13.4.2024, 17:20:45 - INFO - Server is running on port: 3030 

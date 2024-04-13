@@ -9,11 +9,10 @@ export async function getGigs(req, res) {
             category: req.query.category || '',
             minPrice: req.query.minPrice || '',
             maxPrice: req.query.maxPrice || Infinity,
-            deliveryTime: req.query.deliveryTime || Infinity
+            deliveryTime: req.query.deliveryTime || Infinity,
+            sellerLevel: req.query.sellerLevel || null
         }
         const sortBy = req.query.sortBy || 'recommended'
-        console.log(sortBy);
-        console.log('from controller, filterBy:', filterBy);
         const gigs = await gigService.query(filterBy, sortBy)
         res.json(gigs)
     } catch (err) {

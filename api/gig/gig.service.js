@@ -6,7 +6,7 @@ const { ObjectId } = mongodb
 
 // const PAGE_SIZE = 3
 
-async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice: Infinity, deliveryTime: Infinity }, sortBy='recommended') {
+async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice: Infinity, deliveryTime: Infinity, sellerLevel: null }, sortBy = 'recommended') {
     try {
         const criteria = {}
         if (filterBy.txt) {
@@ -30,6 +30,14 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
 
         if (filterBy.deliveryTime !== Infinity) {
             criteria.daysToMake = { $lte: +filterBy.deliveryTime }
+        }
+
+        if (filterBy.sellerLevel !== null) {
+            if (filterBy.sellerLevel === -Infinity) {
+                criteria['owner.rate'] = 0
+            } else {
+                criteria['owner.rate'] = +filterBy.sellerLevel
+            }
         }
 
         const collection = await dbService.getCollection('gig')
