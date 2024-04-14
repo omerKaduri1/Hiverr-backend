@@ -84,7 +84,7 @@ export async function addGigReview(req, res) {
             review: req.body.review,
             name: loggedinUser.fullname,
             rate: req.body.rate,
-            // by: loggedinUser
+            by: loggedinUser
         }
         const savedReview = await gigService.addGigReview(gigId, review)
         res.json(savedReview)
