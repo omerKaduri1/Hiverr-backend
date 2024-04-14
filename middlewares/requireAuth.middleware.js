@@ -1,27 +1,27 @@
-import { config } from '../config/index.js';
+import { config } from '../config/index.js'
 import { logger } from '../services/logger.service.js'
 import { asyncLocalStorage } from '../services/als.service.js'
 
 export async function requireAuth(req, res, next) {
     try {
-        console.log(asyncLocalStorage.getStore());
-        const { loggedinUser } = asyncLocalStorage.getStore() || {};
+        console.log('!!!!!!!!!!', asyncLocalStorage.getStore())
+        const { loggedinUser } = asyncLocalStorage.getStore()
 
-        req.loggedinUser = loggedinUser;
+        req.loggedinUser = loggedinUser
 
         if (config.isGuestMode && !loggedinUser) {
-            req.loggedinUser = { _id: '', fullname: 'Guest' };
-            return next();
+            req.loggedinUser = { _id: '', fullname: 'Guest' }
+            return next()
         }
 
         if (!loggedinUser) {
-            return res.status(401).send('Not Authenticated');
+            return res.status(401).send('Not Authenticated')
         }
 
-        next();
+        next()
     } catch (error) {
-        console.error('Error in requireAuth:', error);
-        res.status(500).send('Internal Server Error');
+        console.error('Error in requireAuth:', error)
+        res.status(500).send('Internal Server Error')
     }
 }
 

@@ -7,6 +7,7 @@ const { ObjectId } = mongodb
 // const PAGE_SIZE = 3
 
 async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice: Infinity, deliveryTime: Infinity, sellerLevel: null }, sortBy = 'recommended') {
+    console.log('from service:', filterBy, sortBy)
     try {
         const criteria = {}
         if (filterBy.txt) {
@@ -32,13 +33,11 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
             criteria.daysToMake = { $lte: +filterBy.deliveryTime }
         }
 
-        if (filterBy.sellerLevel !== null) {
-            if (filterBy.sellerLevel === -Infinity) {
-                criteria['owner.rate'] = 0
-            } else {
-                criteria['owner.rate'] = +filterBy.sellerLevel
-            }
+        if (filterBy.sellerLevel) {
+            criteria['owner.rate'] = { $gte: +filterBy.sellerLevel }
         }
+
+        console.log('criteria from service:', criteria)
 
         const collection = await dbService.getCollection('gig')
         const gigs = await collection.find(criteria).toArray()

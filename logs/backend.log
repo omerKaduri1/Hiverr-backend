@@ -145,3 +145,1261 @@
 13.4.2024, 18:50:53 - INFO - Server is running on port: 3030 
 13.4.2024, 18:51:01 - INFO - Server is running on port: 3030 
 13.4.2024, 18:54:36 - INFO - Server is running on port: 3030 
+14.4.2024, 9:58:23 - INFO - New connected socket [id: MARyiyPpEW1TQHYbAAAB] 
+14.4.2024, 9:58:23 - INFO - Setting socket.userId = fa08f for socket [id: MARyiyPpEW1TQHYbAAAB] 
+14.4.2024, 9:59:53 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 9:59:57 - INFO - New connected socket [id: VEN3w51ZwQNLmGzEAAAD] 
+14.4.2024, 9:59:57 - INFO - Setting socket.userId = fa08f for socket [id: VEN3w51ZwQNLmGzEAAAD] 
+14.4.2024, 10:03:33 - INFO - New connected socket [id: LYyknLTeUoAphvivAAAF] 
+14.4.2024, 10:03:39 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:17:01 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:17:03 - INFO - New connected socket [id: cLO4_cymFQSxbUM2AAAH] 
+14.4.2024, 10:17:04 - INFO - Setting socket.userId = fa08f for socket [id: cLO4_cymFQSxbUM2AAAH] 
+14.4.2024, 10:23:06 - INFO - Server is running on port: 3030 
+14.4.2024, 10:23:08 - INFO - New connected socket [id: oLdXF-r1gkSFZrnsAAAB] 
+14.4.2024, 10:25:44 - INFO - Server is running on port: 3030 
+14.4.2024, 10:25:47 - INFO - New connected socket [id: x3b_Dn7npa3siLB8AAAB] 
+14.4.2024, 10:26:15 - INFO - Server is running on port: 3030 
+14.4.2024, 10:26:20 - INFO - New connected socket [id: bMceMGyDc6JBxcszAAAB] 
+14.4.2024, 10:27:20 - INFO - Server is running on port: 3030 
+14.4.2024, 10:27:21 - INFO - New connected socket [id: gTVfJ3QgckndMstkAAAB] 
+14.4.2024, 10:31:20 - ERROR - Cannot update Order status | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+14.4.2024, 10:31:20 - ERROR - Failed to update order status | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+14.4.2024, 10:32:34 - INFO - Server is running on port: 3030 
+14.4.2024, 10:32:37 - INFO - New connected socket [id: aB7AUd7Jv0tn5s3yAAAB] 
+14.4.2024, 10:33:14 - INFO - Server is running on port: 3030 
+14.4.2024, 10:33:14 - INFO - New connected socket [id: vu_nbq9vK1-8sAvoAAAB] 
+14.4.2024, 10:35:27 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:35:30 - INFO - New connected socket [id: mmCtj875WMmEfAA7AAAD] 
+14.4.2024, 10:35:35 - INFO - Setting socket.userId = fa08f for socket [id: mmCtj875WMmEfAA7AAAD] 
+14.4.2024, 10:40:07 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:40:26 - INFO - New connected socket [id: OpYsIvUqVDy4V1LHAAAF] 
+14.4.2024, 10:40:26 - INFO - Setting socket.userId = fa08f for socket [id: OpYsIvUqVDy4V1LHAAAF] 
+14.4.2024, 10:54:44 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:55:18 - INFO - New connected socket [id: Tq9DEIerFFkMai7eAAAH] 
+14.4.2024, 10:55:19 - INFO - Setting socket.userId = fa08f for socket [id: Tq9DEIerFFkMai7eAAAH] 
+14.4.2024, 10:56:12 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:56:19 - INFO - New connected socket [id: FHx08CjD9vMvPMxGAAAJ] 
+14.4.2024, 10:56:20 - INFO - Setting socket.userId = fa08f for socket [id: FHx08CjD9vMvPMxGAAAJ] 
+14.4.2024, 10:56:49 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 10:56:54 - INFO - New connected socket [id: SnnNcGaaTS2muRsDAAAL] 
+14.4.2024, 10:56:56 - INFO - Setting socket.userId = fa08f for socket [id: SnnNcGaaTS2muRsDAAAL] 
+14.4.2024, 10:59:23 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 11:46:58 - INFO - Server is running on port: 3030 
+14.4.2024, 11:47:57 - INFO - Server is running on port: 3030 
+14.4.2024, 11:50:05 - INFO - Server is running on port: 3030 
+14.4.2024, 11:50:50 - INFO - Sample Logger Middleware 
+14.4.2024, 11:50:50 - DEBUG - Getting Gigs: | {} 
+14.4.2024, 11:52:20 - INFO - Server is running on port: 3030 
+14.4.2024, 11:52:24 - INFO - New connected socket [id: PlGzAjlYehnHopuSAAAB] 
+14.4.2024, 11:53:54 - INFO - Setting socket.userId = o6PdS for socket [id: PlGzAjlYehnHopuSAAAB] 
+14.4.2024, 11:54:20 - INFO - New connected socket [id: vHZyKaJDxR9LapDiAAAD] 
+14.4.2024, 11:54:24 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 11:59:25 - INFO - Server is running on port: 3030 
+14.4.2024, 11:59:25 - INFO - New connected socket [id: SKiLYMweznaRFj0AAAAB] 
+14.4.2024, 11:59:26 - INFO - Server is running on port: 3030 
+14.4.2024, 11:59:26 - INFO - New connected socket [id: lQSex67DCA6xqC8NAAAB] 
+14.4.2024, 11:59:52 - INFO - Server is running on port: 3030 
+14.4.2024, 11:59:53 - INFO - New connected socket [id: G5Pwl8Ff4Y_NqZ5nAAAB] 
+14.4.2024, 12:00:10 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 12:00:11 - INFO - New connected socket [id: 561TZXl0SK2hAGIfAAAD] 
+14.4.2024, 12:00:11 - INFO - Setting socket.userId = o6PdS for socket [id: 561TZXl0SK2hAGIfAAAD] 
+14.4.2024, 12:00:13 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:14 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:26 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:27 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:27 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:29 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:29 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:38 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:38 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:38 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:38 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:40 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:40 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:51 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:51 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:00:51 - INFO - Sample Logger Middleware 
+14.4.2024, 12:00:51 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:06 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:06 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"newest"}} 
+14.4.2024, 12:01:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"mostReviewed"}} 
+14.4.2024, 12:01:07 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:08 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"newest"}} 
+14.4.2024, 12:01:10 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:10 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:11 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"newest"}} 
+14.4.2024, 12:01:11 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"mostReviewed"}} 
+14.4.2024, 12:01:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:13 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:16 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:16 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:17 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:17 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:20 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:01:20 - INFO - Sample Logger Middleware 
+14.4.2024, 12:01:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:05:13 - INFO - Server is running on port: 3030 
+14.4.2024, 12:05:13 - INFO - New connected socket [id: zR3wHse1etyKbfZtAAAB] 
+14.4.2024, 12:05:17 - INFO - Sample Logger Middleware 
+14.4.2024, 12:05:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:05:18 - INFO - Sample Logger Middleware 
+14.4.2024, 12:05:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:06:10 - INFO - Server is running on port: 3030 
+14.4.2024, 12:06:10 - INFO - New connected socket [id: NkY2SvdRvyGbIka-AAAB] 
+14.4.2024, 12:06:19 - INFO - Sample Logger Middleware 
+14.4.2024, 12:06:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:06:21 - INFO - Sample Logger Middleware 
+14.4.2024, 12:06:21 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:06:36 - INFO - Server is running on port: 3030 
+14.4.2024, 12:06:36 - INFO - New connected socket [id: K9OndLvZjkuD7cCkAAAB] 
+14.4.2024, 12:06:40 - INFO - Sample Logger Middleware 
+14.4.2024, 12:06:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:06:41 - INFO - Sample Logger Middleware 
+14.4.2024, 12:06:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:03 - INFO - Server is running on port: 3030 
+14.4.2024, 12:07:03 - INFO - New connected socket [id: 3jhDasx81heNMzWyAAAB] 
+14.4.2024, 12:07:07 - INFO - Server is running on port: 3030 
+14.4.2024, 12:07:07 - INFO - New connected socket [id: o5_1zlUq4sQH_v_2AAAB] 
+14.4.2024, 12:07:08 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:09 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:12 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:12 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:40 - INFO - Server is running on port: 3030 
+14.4.2024, 12:07:40 - INFO - New connected socket [id: kl9a5VLCuTOYOXoaAAAB] 
+14.4.2024, 12:07:42 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:42 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:07:43 - INFO - Sample Logger Middleware 
+14.4.2024, 12:07:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:08:05 - INFO - Sample Logger Middleware 
+14.4.2024, 12:08:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:08:05 - INFO - Sample Logger Middleware 
+14.4.2024, 12:08:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:08:21 - INFO - Sample Logger Middleware 
+14.4.2024, 12:08:21 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:09:03 - INFO - Sample Logger Middleware 
+14.4.2024, 12:09:03 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:09:04 - INFO - Sample Logger Middleware 
+14.4.2024, 12:09:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:09:08 - INFO - Sample Logger Middleware 
+14.4.2024, 12:09:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:09:08 - INFO - Sample Logger Middleware 
+14.4.2024, 12:09:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:10:51 - INFO - Server is running on port: 3030 
+14.4.2024, 12:10:52 - INFO - New connected socket [id: tDnPvbkZwtrMOZA9AAAB] 
+14.4.2024, 12:10:55 - INFO - Sample Logger Middleware 
+14.4.2024, 12:10:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:10:57 - INFO - Sample Logger Middleware 
+14.4.2024, 12:10:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:11:18 - INFO - Server is running on port: 3030 
+14.4.2024, 12:11:18 - INFO - New connected socket [id: 6SCaoPJl_-PFKqWrAAAB] 
+14.4.2024, 12:11:22 - INFO - Server is running on port: 3030 
+14.4.2024, 12:11:23 - INFO - New connected socket [id: YtH2iSlFmGe715oLAAAB] 
+14.4.2024, 12:11:33 - INFO - Sample Logger Middleware 
+14.4.2024, 12:11:33 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:11:34 - INFO - Sample Logger Middleware 
+14.4.2024, 12:11:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:11:41 - INFO - Sample Logger Middleware 
+14.4.2024, 12:11:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:11:41 - INFO - Sample Logger Middleware 
+14.4.2024, 12:11:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:12:10 - INFO - Server is running on port: 3030 
+14.4.2024, 12:12:10 - INFO - New connected socket [id: J48TmB55hC2wjSUJAAAB] 
+14.4.2024, 12:12:37 - INFO - Server is running on port: 3030 
+14.4.2024, 12:12:38 - INFO - Sample Logger Middleware 
+14.4.2024, 12:12:38 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:12:39 - INFO - New connected socket [id: 6HZLGICPanjdAE7TAAAB] 
+14.4.2024, 12:12:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:12:44 - INFO - Sample Logger Middleware 
+14.4.2024, 12:12:44 - INFO - Sample Logger Middleware 
+14.4.2024, 12:12:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:12:46 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 12:12:47 - INFO - New connected socket [id: DT5DrzQ40X03CJApAAAD] 
+14.4.2024, 12:12:47 - INFO - Setting socket.userId = o6PdS for socket [id: DT5DrzQ40X03CJApAAAD] 
+14.4.2024, 12:15:50 - INFO - Server is running on port: 3030 
+14.4.2024, 12:15:50 - INFO - New connected socket [id: m3rlTG4gc0ZfTv8IAAAB] 
+14.4.2024, 12:15:52 - INFO - Server is running on port: 3030 
+14.4.2024, 12:15:52 - INFO - New connected socket [id: MFCToX7ZntLVxQ3UAAAB] 
+14.4.2024, 12:16:21 - INFO - Server is running on port: 3030 
+14.4.2024, 12:16:24 - INFO - New connected socket [id: v2X0jwPG0oOMKN7KAAAB] 
+14.4.2024, 12:16:28 - INFO - Server is running on port: 3030 
+14.4.2024, 12:16:28 - INFO - New connected socket [id: 6ezgBHMzxJFKKvH0AAAB] 
+14.4.2024, 12:16:54 - INFO - Server is running on port: 3030 
+14.4.2024, 12:16:54 - INFO - New connected socket [id: woPJwBfsCsp98KXBAAAB] 
+14.4.2024, 12:16:56 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 12:16:57 - INFO - New connected socket [id: Vi4iKWu8dk7Eq87TAAAD] 
+14.4.2024, 12:16:57 - INFO - Setting socket.userId = o6PdS for socket [id: Vi4iKWu8dk7Eq87TAAAD] 
+14.4.2024, 12:17:00 - INFO - Sample Logger Middleware 
+14.4.2024, 12:17:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:17:01 - INFO - Sample Logger Middleware 
+14.4.2024, 12:17:01 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:09 - INFO - Server is running on port: 3030 
+14.4.2024, 12:18:09 - INFO - New connected socket [id: eLsnQW0O7jKljtC8AAAB] 
+14.4.2024, 12:18:11 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:12 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:50 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:50 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:54 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:54 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:56 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:56 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"7"},"sortBy":"recommended"}} 
+14.4.2024, 12:18:56 - INFO - Sample Logger Middleware 
+14.4.2024, 12:18:56 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"7"},"sortBy":"recommended"}} 
+14.4.2024, 12:22:20 - INFO - Sample Logger Middleware 
+14.4.2024, 12:22:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:22:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:22:20 - INFO - Sample Logger Middleware 
+14.4.2024, 12:28:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:28:43 - INFO - Sample Logger Middleware 
+14.4.2024, 12:28:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:28:43 - INFO - Sample Logger Middleware 
+14.4.2024, 12:31:10 - INFO - New connected socket [id: ovshPNC6vXD4xalvAAAD] 
+14.4.2024, 12:31:10 - INFO - Setting socket.userId = fa08f for socket [id: ovshPNC6vXD4xalvAAAD] 
+14.4.2024, 12:31:10 - INFO - Sample Logger Middleware 
+14.4.2024, 12:31:10 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:31:10 - INFO - Sample Logger Middleware 
+14.4.2024, 12:31:10 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:31:14 - INFO - Sample Logger Middleware 
+14.4.2024, 12:31:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:31:14 - INFO - Sample Logger Middleware 
+14.4.2024, 12:31:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"0","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:32:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:32:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:32:26 - INFO - Sample Logger Middleware 
+14.4.2024, 12:32:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:32:27 - INFO - Sample Logger Middleware 
+14.4.2024, 12:32:27 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:32:52 - INFO - Sample Logger Middleware 
+14.4.2024, 12:32:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:33:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:33:00 - INFO - Sample Logger Middleware 
+14.4.2024, 12:33:00 - INFO - Sample Logger Middleware 
+14.4.2024, 12:33:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:34:03 - INFO - Sample Logger Middleware 
+14.4.2024, 12:34:03 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:34:09 - INFO - Sample Logger Middleware 
+14.4.2024, 12:34:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:34:09 - INFO - Sample Logger Middleware 
+14.4.2024, 12:34:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:36:14 - INFO - Sample Logger Middleware 
+14.4.2024, 12:36:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:36:29 - INFO - Sample Logger Middleware 
+14.4.2024, 12:36:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:36:29 - INFO - Sample Logger Middleware 
+14.4.2024, 12:36:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"0","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:37:35 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:37:35 - INFO - Sample Logger Middleware 
+14.4.2024, 12:37:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:37:46 - INFO - Sample Logger Middleware 
+14.4.2024, 12:37:46 - INFO - Sample Logger Middleware 
+14.4.2024, 12:37:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:40:57 - INFO - Server is running on port: 3030 
+14.4.2024, 12:40:58 - INFO - New connected socket [id: fAiHsywvfNKPN002AAAB] 
+14.4.2024, 12:41:06 - INFO - New connected socket [id: hLwapXc2JzzF-Z02AAAD] 
+14.4.2024, 12:41:11 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 12:41:12 - INFO - New connected socket [id: vyTgHZjY_q8X45F6AAAF] 
+14.4.2024, 12:41:12 - INFO - Setting socket.userId = o6PdS for socket [id: vyTgHZjY_q8X45F6AAAF] 
+14.4.2024, 12:41:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:41:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:41:16 - INFO - Sample Logger Middleware 
+14.4.2024, 12:41:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:46:19 - INFO - Server is running on port: 3030 
+14.4.2024, 12:46:23 - INFO - Server is running on port: 3030 
+14.4.2024, 12:46:23 - INFO - New connected socket [id: jxlX3Yz-CQdyPJ9kAAAC] 
+14.4.2024, 12:46:23 - INFO - New connected socket [id: j24du5ulOpK48Ve1AAAD] 
+14.4.2024, 12:47:18 - INFO - Server is running on port: 3030 
+14.4.2024, 12:47:18 - INFO - New connected socket [id: zTpe2HozY7W6RwTcAAAB] 
+14.4.2024, 12:47:20 - INFO - New connected socket [id: wZ2l2Q6DQ6mm1_Y4AAAD] 
+14.4.2024, 12:47:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:47:22 - INFO - Sample Logger Middleware 
+14.4.2024, 12:47:24 - INFO - Sample Logger Middleware 
+14.4.2024, 12:47:24 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:47:54 - INFO - Server is running on port: 3030 
+14.4.2024, 12:47:55 - INFO - New connected socket [id: Sa4rn-FzJXo7mj16AAAB] 
+14.4.2024, 12:47:55 - INFO - New connected socket [id: T-8iW9RffzwptsCHAAAD] 
+14.4.2024, 12:47:59 - INFO - Sample Logger Middleware 
+14.4.2024, 12:47:59 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:01 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:01 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:18 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:18 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:22 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"7"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:22 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"7"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:26 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:26 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:28 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:28 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:31 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:31 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:34 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:34 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:39 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"233","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"233","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:40 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:48 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:48 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"444","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:48 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:48 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"444","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:52 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"444","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:52 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"444","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:53 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:54 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:57 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:48:57 - INFO - Sample Logger Middleware 
+14.4.2024, 12:48:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:00 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:00 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:02 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:02 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:04 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"-Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:04 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"-Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:05 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:05 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:07 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:49:07 - INFO - Sample Logger Middleware 
+14.4.2024, 12:49:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:51:11 - INFO - Server is running on port: 3030 
+14.4.2024, 12:51:13 - INFO - Server is running on port: 3030 
+14.4.2024, 12:51:15 - INFO - New connected socket [id: oy8vywR5AymVCENiAAAC] 
+14.4.2024, 12:51:15 - INFO - New connected socket [id: k1pALYZ8NUlk1YtgAAAD] 
+14.4.2024, 12:53:42 - INFO - Server is running on port: 3030 
+14.4.2024, 12:53:43 - INFO - New connected socket [id: jDt3VzEReXw8O2WNAAAC] 
+14.4.2024, 12:53:43 - INFO - New connected socket [id: 95zag8f-rHdH-x1sAAAD] 
+14.4.2024, 12:53:45 - INFO - Sample Logger Middleware 
+14.4.2024, 12:53:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:53:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:53:46 - INFO - Sample Logger Middleware 
+14.4.2024, 12:53:50 - INFO - Sample Logger Middleware 
+14.4.2024, 12:53:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:53:50 - INFO - Sample Logger Middleware 
+14.4.2024, 12:53:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:53:56 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 12:53:56 - INFO - Sample Logger Middleware 
+14.4.2024, 12:53:58 - INFO - Server is running on port: 3030 
+14.4.2024, 12:53:58 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 12:53:58 - INFO - Sample Logger Middleware 
+14.4.2024, 12:53:58 - INFO - New connected socket [id: ifi8lAv8roXYOHo6AAAC] 
+14.4.2024, 12:53:58 - INFO - New connected socket [id: I_isGjYyOkQatG3DAAAD] 
+14.4.2024, 12:54:05 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:06 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:06 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:12 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"-Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:12 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"-Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:27 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:27 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:27 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:27 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:30 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:30 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:31 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:34 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:34 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:40 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:40 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:42 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:42 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:42 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:42 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:45 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:45 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:50 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:50 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:52 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:52 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:55 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:55 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:57 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:54:57 - INFO - Sample Logger Middleware 
+14.4.2024, 12:54:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:06 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:06 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:07 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:09 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:09 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"7"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:11 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:11 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"7"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:13 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:13 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:16 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:20 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"newest"}} 
+14.4.2024, 12:55:24 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:24 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"mostReviewed"}} 
+14.4.2024, 12:55:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"newest"}} 
+14.4.2024, 12:55:26 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:29 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"newest"}} 
+14.4.2024, 12:55:31 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:33 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:33 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:35 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"newest"}} 
+14.4.2024, 12:55:35 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:37 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:55:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"mostReviewed"}} 
+14.4.2024, 12:55:39 - INFO - Sample Logger Middleware 
+14.4.2024, 12:55:48 - ERROR - Failed to get orders | SyntaxError: Unexpected token 'o', "o6PdS" is not valid JSON 
+14.4.2024, 12:56:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:56:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:56:15 - INFO - Sample Logger Middleware 
+14.4.2024, 12:56:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:56:17 - ERROR - Failed to get orders | SyntaxError: Unexpected token 'o', "o6PdS" is not valid JSON 
+14.4.2024, 12:56:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:56:19 - INFO - Sample Logger Middleware 
+14.4.2024, 12:56:20 - INFO - Sample Logger Middleware 
+14.4.2024, 12:56:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 12:56:29 - ERROR - Failed to get orders | SyntaxError: Unexpected token 'o', "o6PdS" is not valid JSON 
+14.4.2024, 12:58:23 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 12:58:23 - INFO - New connected socket [id: RU_IXjKg_qW1F44iAAAF] 
+14.4.2024, 12:58:24 - ERROR - Failed to get orders | SyntaxError: Unexpected token 'o', "o6PdS" is not valid JSON 
+14.4.2024, 12:58:24 - INFO - Setting socket.userId = o6PdS for socket [id: RU_IXjKg_qW1F44iAAAF] 
+14.4.2024, 12:58:34 - INFO - Sample Logger Middleware 
+14.4.2024, 12:58:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:58:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 12:58:34 - INFO - Sample Logger Middleware 
+14.4.2024, 13:01:03 - INFO - Server is running on port: 3030 
+14.4.2024, 13:01:05 - INFO - New connected socket [id: 3kphkzTDGKt3yynvAAAB] 
+14.4.2024, 13:01:07 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:01:08 - INFO - New connected socket [id: nVi5c-hSNAHdD5rJAAAE] 
+14.4.2024, 13:01:08 - INFO - New connected socket [id: hhN3-EoX0lB0oS5KAAAF] 
+14.4.2024, 13:01:08 - INFO - Setting socket.userId = o6PdS for socket [id: nVi5c-hSNAHdD5rJAAAE] 
+14.4.2024, 13:01:40 - INFO - Removing socket.userId for socket [id: nVi5c-hSNAHdD5rJAAAE] 
+14.4.2024, 13:02:05 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:02:05 - INFO - New connected socket [id: Dj7N-aJ-nGgKMDvLAAAH] 
+14.4.2024, 13:02:05 - INFO - Setting socket.userId = o6PdS for socket [id: Dj7N-aJ-nGgKMDvLAAAH] 
+14.4.2024, 13:02:10 - INFO - Removing socket.userId for socket [id: Dj7N-aJ-nGgKMDvLAAAH] 
+14.4.2024, 13:02:12 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:02:12 - INFO - New connected socket [id: uYrqbTJSij7NZY21AAAJ] 
+14.4.2024, 13:02:12 - INFO - Setting socket.userId = o6PdS for socket [id: uYrqbTJSij7NZY21AAAJ] 
+14.4.2024, 13:03:35 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:03:36 - INFO - New connected socket [id: 8rIJMMfuDJSbWcPAAAAL] 
+14.4.2024, 13:03:36 - INFO - Setting socket.userId = o6PdS for socket [id: 8rIJMMfuDJSbWcPAAAAL] 
+14.4.2024, 13:03:38 - INFO - Removing socket.userId for socket [id: 8rIJMMfuDJSbWcPAAAAL] 
+14.4.2024, 13:03:42 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:03:42 - INFO - New connected socket [id: XoXHD82A1tuMvrWiAAAN] 
+14.4.2024, 13:03:42 - INFO - Setting socket.userId = o6PdS for socket [id: XoXHD82A1tuMvrWiAAAN] 
+14.4.2024, 13:06:16 - INFO - Server is running on port: 3030 
+14.4.2024, 13:06:18 - INFO - New connected socket [id: cTrMNdz4wuObbLXcAAAB] 
+14.4.2024, 13:06:18 - INFO - Setting socket.userId = o6PdS for socket [id: cTrMNdz4wuObbLXcAAAB] 
+14.4.2024, 13:06:20 - INFO - Removing socket.userId for socket [id: cTrMNdz4wuObbLXcAAAB] 
+14.4.2024, 13:06:29 - INFO - New connected socket [id: iLsQine8aVyag-Y3AAAD] 
+14.4.2024, 13:06:54 - DEBUG - auth.service - signup with username: omerKaduri, fullname: undefined 
+14.4.2024, 13:06:54 - ERROR - Failed to signup Missing required signup information 
+14.4.2024, 13:13:54 - INFO - Server is running on port: 3030 
+14.4.2024, 13:13:57 - INFO - New connected socket [id: EoU3C1g2gUy_MK1oAAAC] 
+14.4.2024, 13:13:58 - INFO - New connected socket [id: XvI6zzD62zXYJT5aAAAD] 
+14.4.2024, 13:13:58 - INFO - New connected socket [id: n7Xeu7K7F3w233D-AAAF] 
+14.4.2024, 13:14:42 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:16:34 - INFO - Sample Logger Middleware 
+14.4.2024, 13:16:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:16:36 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:16:36 - INFO - Sample Logger Middleware 
+14.4.2024, 13:16:53 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:17:54 - INFO - Sample Logger Middleware 
+14.4.2024, 13:17:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:17:54 - INFO - Sample Logger Middleware 
+14.4.2024, 13:17:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:18:20 - INFO - Sample Logger Middleware 
+14.4.2024, 13:18:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:18:20 - INFO - Sample Logger Middleware 
+14.4.2024, 13:18:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:18:59 - INFO - Sample Logger Middleware 
+14.4.2024, 13:18:59 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:18:59 - INFO - Sample Logger Middleware 
+14.4.2024, 13:18:59 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:19:21 - INFO - New connected socket [id: Jl7VSEZp4KamG5eAAAAH] 
+14.4.2024, 13:19:21 - INFO - Setting socket.userId = fa08f for socket [id: Jl7VSEZp4KamG5eAAAAH] 
+14.4.2024, 13:19:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:19:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:19:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:19:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:19:31 - INFO - Sample Logger Middleware 
+14.4.2024, 13:19:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"-Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 13:19:31 - INFO - Sample Logger Middleware 
+14.4.2024, 13:19:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"-Infinity"},"sortBy":"recommended"}} 
+14.4.2024, 13:22:57 - INFO - Server is running on port: 3030 
+14.4.2024, 13:22:58 - INFO - New connected socket [id: qmBHcQhbJC3LP2EJAAAB] 
+14.4.2024, 13:22:59 - INFO - New connected socket [id: YwvgHAGolv2NE3R0AAAD] 
+14.4.2024, 13:23:05 - INFO - Sample Logger Middleware 
+14.4.2024, 13:23:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:23:06 - INFO - Sample Logger Middleware 
+14.4.2024, 13:23:06 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:24:19 - INFO - Server is running on port: 3030 
+14.4.2024, 13:24:21 - INFO - New connected socket [id: yNSIMf-IofFp4mS0AAAB] 
+14.4.2024, 13:24:23 - INFO - Sample Logger Middleware 
+14.4.2024, 13:24:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:24:24 - INFO - New connected socket [id: KZWTfqn-q5aSBN0XAAAD] 
+14.4.2024, 13:24:24 - INFO - Sample Logger Middleware 
+14.4.2024, 13:24:24 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:24:38 - INFO - Server is running on port: 3030 
+14.4.2024, 13:24:40 - INFO - New connected socket [id: LUByfaQ5FwdBoW2oAAAC] 
+14.4.2024, 13:24:40 - INFO - New connected socket [id: FuoUWgmveOWj_R6WAAAD] 
+14.4.2024, 13:24:46 - INFO - Sample Logger Middleware 
+14.4.2024, 13:24:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:24:47 - INFO - Sample Logger Middleware 
+14.4.2024, 13:24:47 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:27:31 - INFO - Server is running on port: 3030 
+14.4.2024, 13:27:32 - INFO - New connected socket [id: UvYmdqQPVjLVKQFsAAAB] 
+14.4.2024, 13:27:36 - INFO - New connected socket [id: V6JXy7p49-x_u0rZAAAD] 
+14.4.2024, 13:27:41 - INFO - Sample Logger Middleware 
+14.4.2024, 13:27:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:27:43 - INFO - Sample Logger Middleware 
+14.4.2024, 13:27:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:27:55 - INFO - Server is running on port: 3030 
+14.4.2024, 13:27:55 - INFO - New connected socket [id: IekbpTmQ_NzQuEiRAAAB] 
+14.4.2024, 13:27:56 - INFO - New connected socket [id: 668GenRFqc1-YaviAAAD] 
+14.4.2024, 13:29:34 - INFO - Server is running on port: 3030 
+14.4.2024, 13:29:34 - INFO - New connected socket [id: CQzBi_T2rPR66oonAAAB] 
+14.4.2024, 13:29:38 - INFO - New connected socket [id: KrfkEjd7sh07lLlWAAAD] 
+14.4.2024, 13:29:43 - INFO - Sample Logger Middleware 
+14.4.2024, 13:29:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:29:44 - INFO - Sample Logger Middleware 
+14.4.2024, 13:29:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:30:14 - INFO - Server is running on port: 3030 
+14.4.2024, 13:30:14 - INFO - New connected socket [id: kUxqVLQfYzkcE_-ZAAAB] 
+14.4.2024, 13:30:16 - INFO - New connected socket [id: G5o3v3iZcaDuyyr_AAAD] 
+14.4.2024, 13:34:03 - INFO - Server is running on port: 3030 
+14.4.2024, 13:34:07 - INFO - New connected socket [id: F73IAPuWW4V0xxwQAAAC] 
+14.4.2024, 13:34:07 - INFO - New connected socket [id: E4F3AJerURDPpkeqAAAD] 
+14.4.2024, 13:34:09 - INFO - Sample Logger Middleware 
+14.4.2024, 13:34:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:34:11 - INFO - Sample Logger Middleware 
+14.4.2024, 13:34:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:06 - INFO - Server is running on port: 3030 
+14.4.2024, 13:38:06 - INFO - New connected socket [id: UcnoHNNQICIBn__BAAAB] 
+14.4.2024, 13:38:06 - INFO - New connected socket [id: nnkoygHh4Ptk_lTCAAAD] 
+14.4.2024, 13:38:15 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:38:15 - INFO - New connected socket [id: kgEN-wgrp3SLod7oAAAF] 
+14.4.2024, 13:38:16 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:18 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:23 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:26 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:27 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:27 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:29 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:29 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:30 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:30 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:38:30 - INFO - Sample Logger Middleware 
+14.4.2024, 13:38:30 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:18 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:18 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:19 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:20 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:23 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:26 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:26 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:26 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:39 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:39 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:47 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:47 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:47 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:47 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:54 - INFO - Sample Logger Middleware 
+14.4.2024, 13:39:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:39:54 - INFO - Sample Logger Middleware 
+14.4.2024, 13:40:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:40:04 - INFO - Sample Logger Middleware 
+14.4.2024, 13:40:04 - INFO - Sample Logger Middleware 
+14.4.2024, 13:40:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:13 - INFO - Server is running on port: 3030 
+14.4.2024, 13:41:13 - INFO - New connected socket [id: z5ORfm07o2rdCZskAAAC] 
+14.4.2024, 13:41:13 - INFO - New connected socket [id: lf36C_uhN_tbKWJ3AAAD] 
+14.4.2024, 13:41:18 - INFO - Sample Logger Middleware 
+14.4.2024, 13:41:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:19 - INFO - Sample Logger Middleware 
+14.4.2024, 13:41:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:21 - INFO - Sample Logger Middleware 
+14.4.2024, 13:41:21 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:21 - INFO - Sample Logger Middleware 
+14.4.2024, 13:41:21 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:41:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:41:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:41:33 - INFO - Server is running on port: 3030 
+14.4.2024, 13:41:34 - INFO - New connected socket [id: 2y7dilQfjHF1T2IAAAAB] 
+14.4.2024, 13:41:34 - INFO - New connected socket [id: Mmxi1MTOGwRq2nLYAAAD] 
+14.4.2024, 13:42:24 - INFO - Server is running on port: 3030 
+14.4.2024, 13:42:27 - INFO - New connected socket [id: xmyYeQ9Vm0t72S4tAAAB] 
+14.4.2024, 13:42:28 - INFO - New connected socket [id: qkY57to4O3h3qOatAAAD] 
+14.4.2024, 13:42:39 - INFO - Sample Logger Middleware 
+14.4.2024, 13:42:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:42:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:42:40 - INFO - Sample Logger Middleware 
+14.4.2024, 13:42:42 - INFO - Server is running on port: 3030 
+14.4.2024, 13:42:42 - INFO - New connected socket [id: ThVW87MQklDOZ5WSAAAB] 
+14.4.2024, 13:42:43 - INFO - New connected socket [id: aP3rsdF789-KPg4cAAAD] 
+14.4.2024, 13:42:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:42:43 - INFO - Sample Logger Middleware 
+14.4.2024, 13:42:44 - INFO - Sample Logger Middleware 
+14.4.2024, 13:42:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:42:45 - INFO - Sample Logger Middleware 
+14.4.2024, 13:42:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:42:45 - INFO - Sample Logger Middleware 
+14.4.2024, 13:42:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:44:53 - INFO - Server is running on port: 3030 
+14.4.2024, 13:44:53 - INFO - New connected socket [id: inLoHbIcpAWj-uLxAAAB] 
+14.4.2024, 13:44:58 - INFO - New connected socket [id: m3dEfLfwjJo9QmRjAAAD] 
+14.4.2024, 13:45:04 - INFO - Sample Logger Middleware 
+14.4.2024, 13:45:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:45:05 - INFO - Sample Logger Middleware 
+14.4.2024, 13:45:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:45:07 - INFO - Sample Logger Middleware 
+14.4.2024, 13:45:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:45:08 - INFO - Sample Logger Middleware 
+14.4.2024, 13:45:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:45:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:45:09 - INFO - Sample Logger Middleware 
+14.4.2024, 13:45:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:45:09 - INFO - Sample Logger Middleware 
+14.4.2024, 13:45:10 - INFO - Server is running on port: 3030 
+14.4.2024, 13:45:11 - INFO - New connected socket [id: PkY-T4NNpNRCdoUNAAAB] 
+14.4.2024, 13:45:12 - INFO - New connected socket [id: f1f5hBRrpgkDhLQjAAAD] 
+14.4.2024, 13:46:12 - INFO - Sample Logger Middleware 
+14.4.2024, 13:46:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:46:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:46:13 - INFO - Sample Logger Middleware 
+14.4.2024, 13:46:16 - INFO - Sample Logger Middleware 
+14.4.2024, 13:46:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:46:16 - INFO - Sample Logger Middleware 
+14.4.2024, 13:46:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"NaN"},"sortBy":"recommended"}} 
+14.4.2024, 13:48:53 - INFO - Server is running on port: 3030 
+14.4.2024, 13:48:53 - INFO - New connected socket [id: Jmz9l2XHcJ2mUH1hAAAB] 
+14.4.2024, 13:48:54 - INFO - New connected socket [id: ZOqpZnk00hEwvfcwAAAD] 
+14.4.2024, 13:48:56 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:48:56 - INFO - New connected socket [id: kqLzX2SAOqQST_oqAAAF] 
+14.4.2024, 13:48:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:48:57 - INFO - Sample Logger Middleware 
+14.4.2024, 13:48:59 - INFO - Sample Logger Middleware 
+14.4.2024, 13:48:59 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:02 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:02 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:03 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:03 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:04 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:06 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:06 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:07 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:08 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:08 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:18 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"website-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:18 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"website-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"programming-tech","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"programming-tech","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:22 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:24 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:24 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:25 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:25 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:28 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:29 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:37 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:37 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:40 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:40 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:43 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"7","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"7","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:43 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:45 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:45 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:46 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:46 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:49 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"1","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:49 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:49 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:49 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"1","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:50 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:50 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:53 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:53 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:56 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:56 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:56 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:56 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:58 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:58 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:58 - INFO - Sample Logger Middleware 
+14.4.2024, 13:49:58 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"1"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:59 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:49:59 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:00 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:00 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:03 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:03 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:04 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:04 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:05 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:05 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:05 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:07 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"2"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:08 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:08 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:08 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:12 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:12 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:13 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:13 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:13 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:14 - INFO - Sample Logger Middleware 
+14.4.2024, 13:50:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"txt":"logo","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} 
+14.4.2024, 13:50:14 - INFO - Sample Logger Middleware 
+14.4.2024, 13:57:22 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:57:22 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:57:23 - INFO - New connected socket [id: 266eg1gtGIWR4sXmAAAH] 
+14.4.2024, 13:57:24 - INFO - New connected socket [id: lJkgPJdzWNzlvO3VAAAJ] 
+14.4.2024, 13:57:24 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 13:57:25 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:01:17 - INFO - New connected socket [id: A-7PhkGE1goNjcwGAAAM] 
+14.4.2024, 14:01:17 - INFO - New connected socket [id: 3P5TsIlNTsLIn7QNAAAN] 
+14.4.2024, 14:15:27 - INFO - Server is running on port: 3030 
+14.4.2024, 14:15:27 - INFO - New connected socket [id: NA1pxc_e4HyFfkt8AAAB] 
+14.4.2024, 14:15:36 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:15:37 - INFO - New connected socket [id: YdlzaUZhfFr1kdoTAAAD] 
+14.4.2024, 14:15:40 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:15:42 - INFO - New connected socket [id: bpgdgPUnjMRKSyh6AAAF] 
+14.4.2024, 14:15:49 - DEBUG - auth.service - signup with username: omerKaduri, fullname: Omer Kaduri 
+14.4.2024, 14:15:51 - DEBUG - auth.service - login with username: omerKaduri 
+14.4.2024, 14:15:51 - DEBUG - auth.route - new account created: {"username":"omerKaduri","password":"$2b$10$awE0XIgnhX7OciNf700hMO5dPhEsE./Jd5hvBAwJURZQcFmEcgfsq","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png","_id":"661bbae6cfc58f912e9ee142"} 
+14.4.2024, 14:15:51 - INFO - User signup: | {"_id":"661bbae6cfc58f912e9ee142","username":"omerKaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} 
+14.4.2024, 14:18:08 - INFO - Server is running on port: 3030 
+14.4.2024, 14:18:10 - INFO - New connected socket [id: BBrtd79SU5oyaxjNAAAB] 
+14.4.2024, 14:18:20 - INFO - Server is running on port: 3030 
+14.4.2024, 14:18:22 - INFO - New connected socket [id: Rp3i--N0U8FYBx7fAAAB] 
+14.4.2024, 14:18:26 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:18:26 - INFO - New connected socket [id: _CX9hROTTqP_YDSpAAAD] 
+14.4.2024, 14:18:31 - DEBUG - auth.service - signup with username: omerKaduri, fullname: Omer Kaduri (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:18:32 - ERROR - Failed to signup Username already taken (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:18:51 - INFO - New connected socket [id: en59I1ryGLuO1TDoAAAF] 
+14.4.2024, 14:21:43 - INFO - Server is running on port: 3030 
+14.4.2024, 14:21:43 - INFO - New connected socket [id: 4cOhRzCG_bjTpvVVAAAB] 
+14.4.2024, 14:21:46 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:21:47 - INFO - New connected socket [id: OCMe0xHYeJ3-b9ptAAAD] 
+14.4.2024, 14:26:19 - INFO - Server is running on port: 3030 
+14.4.2024, 14:26:24 - INFO - New connected socket [id: P62m83P3nXSMytyUAAAB] 
+14.4.2024, 14:26:30 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:26:32 - INFO - New connected socket [id: 15OOcXmyYwumHqUfAAAD] 
+14.4.2024, 14:26:42 - DEBUG - auth.service - signup with username: omerKaduri, fullname: Omer Kaduri (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:26:44 - ERROR - Failed to signup Username already taken (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:28:43 - INFO - New connected socket [id: xxr8e9E4fjhmdNxQAAAF] 
+14.4.2024, 14:29:41 - INFO - Removing socket.userId for socket [id: xxr8e9E4fjhmdNxQAAAF] 
+14.4.2024, 14:29:49 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:30:01 - INFO - New connected socket [id: gpa_ZUCsvOfGpC1BAAAH] 
+14.4.2024, 14:30:05 - DEBUG - auth.service - signup with username: Omer_Kaduri, fullname: Omer Kaduri 
+14.4.2024, 14:30:05 - DEBUG - auth.service - login with username: Omer_Kaduri 
+14.4.2024, 14:30:05 - DEBUG - auth.route - new account created: {"username":"Omer_Kaduri","password":"$2b$10$CrPUKZp2p2Y1xxCTLpFlkuhZxVZQHlFLZLEHjwYTtWoPy3s/GH24q","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png","_id":"661bbe3d87402f17ee95dc1b"} 
+14.4.2024, 14:30:06 - INFO - User signup: | {"_id":"661bbe3d87402f17ee95dc1b","username":"Omer_Kaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} 
+14.4.2024, 14:30:06 - INFO - Setting socket.userId = 661bbe3d87402f17ee95dc1b for socket [id: gpa_ZUCsvOfGpC1BAAAH] 
+14.4.2024, 14:30:42 - INFO - Removing socket.userId for socket [id: gpa_ZUCsvOfGpC1BAAAH] 
+14.4.2024, 14:30:42 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:30:43 - INFO - New connected socket [id: -8Sod8AdZdsJbGTsAAAJ] 
+14.4.2024, 14:30:52 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:30:52 - INFO - New connected socket [id: OduUp8G3sa2rFi5kAAAL] 
+14.4.2024, 14:30:57 - DEBUG - auth.service - signup with username: omerKaduri, fullname: Omer Kaduri (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:30:57 - DEBUG - auth.route - new account created: {"username":"omerKaduri","password":"$2b$10$1llzBirA8qxW6XPyXmL2kuAmpAFLJ/liUiaeCysRZgNUIjfO2nfui","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png","_id":"661bbe7187402f17ee95dc1c"} (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:30:57 - DEBUG - auth.service - login with username: omerKaduri (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:30:57 - INFO - User signup: | {"_id":"661bbe7187402f17ee95dc1c","username":"omerKaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} (userId: 661bbae6cfc58f912e9ee142)
+14.4.2024, 14:30:57 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: OduUp8G3sa2rFi5kAAAL] 
+14.4.2024, 14:31:32 - INFO - Removing socket.userId for socket [id: OduUp8G3sa2rFi5kAAAL] 
+14.4.2024, 14:31:43 - DEBUG - auth.service - login with username: omerKaduri 
+14.4.2024, 14:31:43 - INFO - User login:  | {"_id":"661bbe7187402f17ee95dc1c","username":"omerKaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} 
+14.4.2024, 14:31:43 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: OduUp8G3sa2rFi5kAAAL] 
+14.4.2024, 14:31:46 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:31:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:31:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:31:46 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:32:16 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:32:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"music","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:32:16 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:32:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"music","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:32:17 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:33:14 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:33:19 - INFO - New connected socket [id: zBQ_ONTUfLj7Q7UEAAAN] 
+14.4.2024, 14:35:33 - INFO - Server is running on port: 3030 
+14.4.2024, 14:35:34 - INFO - New connected socket [id: LMxwGIgUlvx-zl3cAAAB] 
+14.4.2024, 14:35:34 - INFO - New connected socket [id: 8rAVTQOI7MtGkTZcAAAD] 
+14.4.2024, 14:35:50 - INFO - Server is running on port: 3030 
+14.4.2024, 14:35:50 - INFO - New connected socket [id: 4jQlFP85MgSPpp26AAAB] 
+14.4.2024, 14:37:28 - INFO - Server is running on port: 3030 
+14.4.2024, 14:37:32 - INFO - New connected socket [id: RoDlKmj0n2hDsRdFAAAB] 
+14.4.2024, 14:38:42 - INFO - New connected socket [id: RwhCMdwoq7Vnx2sFAAAD] 
+14.4.2024, 14:39:00 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:39:01 - INFO - New connected socket [id: cGfWc5DT00PRiMP4AAAF] 
+14.4.2024, 14:39:01 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:39:01 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: cGfWc5DT00PRiMP4AAAF] 
+14.4.2024, 14:39:07 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:39:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:39:09 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:39:09 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:41:39 - INFO - Server is running on port: 3030 
+14.4.2024, 14:41:39 - INFO - New connected socket [id: I3zawwjgTZLKsa-qAAAB] 
+14.4.2024, 14:41:42 - INFO - New connected socket [id: fQvgNh82fuXpQJm6AAAD] 
+14.4.2024, 14:41:48 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:41:48 - INFO - New connected socket [id: eD-MMPS_YCIi-hrJAAAF] 
+14.4.2024, 14:41:48 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: eD-MMPS_YCIi-hrJAAAF] 
+14.4.2024, 14:41:50 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:41:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:41:52 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:41:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:42:38 - INFO - Server is running on port: 3030 
+14.4.2024, 14:42:38 - INFO - New connected socket [id: DMLGAyYy0DLH6RGeAAAB] 
+14.4.2024, 14:42:38 - INFO - New connected socket [id: m6ALexMEeOM2ftJPAAAD] 
+14.4.2024, 14:42:43 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:42:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:42:45 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:42:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:43:38 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:44:17 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:44:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:44:17 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:44:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:45:04 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:46:31 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 14:46:31 - INFO - New connected socket [id: pFX48iYQxbKlLUDtAAAF] 
+14.4.2024, 14:46:31 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:46:31 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: pFX48iYQxbKlLUDtAAAF] 
+14.4.2024, 14:47:52 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:47:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:47:53 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:47:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:56:19 - INFO - Server is running on port: 3030 
+14.4.2024, 14:56:19 - INFO - New connected socket [id: Qo-8jYneIqMAPOvYAAAC] 
+14.4.2024, 14:56:19 - INFO - New connected socket [id: sDS_wsjVaAtYNfoeAAAD] 
+14.4.2024, 14:56:23 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:58:06 - INFO - Server is running on port: 3030 
+14.4.2024, 14:58:06 - INFO - New connected socket [id: _YJG1Y8Owykh7rrIAAAB] 
+14.4.2024, 14:58:06 - INFO - New connected socket [id: rB2R6XERd78wYGpAAAAD] 
+14.4.2024, 14:58:08 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 14:59:02 - INFO - Server is running on port: 3030 
+14.4.2024, 14:59:03 - INFO - New connected socket [id: AhDEja7PbGWPMZ53AAAB] 
+14.4.2024, 14:59:03 - INFO - New connected socket [id: hSDGOukelIwOFtcpAAAD] 
+14.4.2024, 14:59:05 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:02:29 - INFO - Server is running on port: 3030 
+14.4.2024, 15:02:29 - INFO - New connected socket [id: 47OgnzUiuDrkuIKtAAAB] 
+14.4.2024, 15:02:40 - ERROR - Failed to get orders | SyntaxError: Unexpected non-whitespace character after JSON at position 3 (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:05 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:08 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:11 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:12 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:12 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:05:38 - INFO - New connected socket [id: VVIHULUjfpZ-CMUvAAAD] 
+14.4.2024, 15:06:40 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:06:40 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:06:41 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:06:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:06:58 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:06:59 - INFO - New connected socket [id: u29pE6RlsceXE_sbAAAF] 
+14.4.2024, 15:06:59 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: u29pE6RlsceXE_sbAAAF] 
+14.4.2024, 15:07:36 - INFO - Server is running on port: 3030 
+14.4.2024, 15:07:36 - INFO - New connected socket [id: 1t-VCwTMy9iFjNH4AAAB] 
+14.4.2024, 15:07:37 - INFO - New connected socket [id: RXVxJC9XfInWB6VeAAAD] 
+14.4.2024, 15:07:42 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:07:42 - INFO - New connected socket [id: jXRM81HCwnnRq-CFAAAF] 
+14.4.2024, 15:07:42 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: jXRM81HCwnnRq-CFAAAF] 
+14.4.2024, 15:07:53 - ERROR - Failed to get orders | SyntaxError: "[object Object]" is not valid JSON (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:09:59 - INFO - Server is running on port: 3030 
+14.4.2024, 15:10:00 - INFO - New connected socket [id: 9TPP0XEcKwy0vRL0AAAC] 
+14.4.2024, 15:10:00 - INFO - New connected socket [id: RwmNmCNNRWIxYBOWAAAD] 
+14.4.2024, 15:10:04 - ERROR - Failed to get orders | SyntaxError: "[object Object]" is not valid JSON (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:11:13 - ERROR - Failed to get orders | SyntaxError: "[object Object]" is not valid JSON (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:14:33 - INFO - Removing socket.userId for socket [id: 9TPP0XEcKwy0vRL0AAAC] 
+14.4.2024, 15:14:47 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:14:48 - INFO - New connected socket [id: pJ2JD2ze3A-sHV6KAAAF] 
+14.4.2024, 15:16:11 - INFO - Server is running on port: 3030 
+14.4.2024, 15:16:13 - INFO - New connected socket [id: uzQtIlx36wNRYbEpAAAB] 
+14.4.2024, 15:16:44 - INFO - Server is running on port: 3030 
+14.4.2024, 15:16:45 - INFO - New connected socket [id: 9B0tH8cwr5XaP9lTAAAB] 
+14.4.2024, 15:16:56 - DEBUG - auth.service - login with username: omerKaduri 
+14.4.2024, 15:16:58 - INFO - User login:  | {"_id":"661bbe7187402f17ee95dc1c","username":"omerKaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} 
+14.4.2024, 15:16:58 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: 9B0tH8cwr5XaP9lTAAAB] 
+14.4.2024, 15:17:05 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:05 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:41 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:42 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:42 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:59 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:17:59 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:18:54 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:18:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:18:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:18:55 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:21:09 - INFO - New connected socket [id: hUzAyarmBosDzKz8AAAD] 
+14.4.2024, 15:23:05 - INFO - Server is running on port: 3030 
+14.4.2024, 15:23:08 - INFO - New connected socket [id: 2UGD-9KwmgGwU1TNAAAB] 
+14.4.2024, 15:23:23 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:23:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:23:23 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:23:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:50 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:50 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:52 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:52 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:53 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:55 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:55 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:57 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:58 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:24:58 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:25:45 - INFO - Server is running on port: 3030 
+14.4.2024, 15:25:45 - INFO - New connected socket [id: fs7zd2PAdQQgdzLSAAAB] 
+14.4.2024, 15:25:47 - INFO - Server is running on port: 3030 
+14.4.2024, 15:25:47 - INFO - New connected socket [id: MTxgzdWKqJxDfryfAAAB] 
+14.4.2024, 15:25:54 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:25:54 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:26:18 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:26:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:26:19 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:26:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:29:28 - INFO - New connected socket [id: lDwLJRiIWHt7fkc8AAAD] 
+14.4.2024, 15:31:36 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:31:36 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:32:20 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:33:17 - INFO - New connected socket [id: PKKzWp5ekkywNPYVAAAF] 
+14.4.2024, 15:33:20 - DEBUG - auth.service - login with username: Omer_Kaduri 
+14.4.2024, 15:33:20 - ERROR - Failed to Login Invalid username or password 
+14.4.2024, 15:33:20 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:33:21 - INFO - New connected socket [id: ZbbaElaf7J_smRwoAAAH] 
+14.4.2024, 15:33:24 - DEBUG - auth.service - login with username: Omer_Kaduri 
+14.4.2024, 15:33:24 - ERROR - Failed to Login Invalid username or password 
+14.4.2024, 15:33:24 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:33:25 - INFO - New connected socket [id: ZOXxFYi0SfRrYIN1AAAJ] 
+14.4.2024, 15:33:29 - DEBUG - auth.service - signup with username: Omer_Kaduri, fullname: Omer Kaduri 
+14.4.2024, 15:33:30 - DEBUG - auth.route - new account created: {"username":"Omer_Kaduri","password":"$2b$10$NaHPIMH6/DAoCZliWwPqXeRf/v1Rzc7kN8CB3jgRV.PuKKnAI1ZcO","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png","_id":"661bcd19e9c8c20c40128228"} 
+14.4.2024, 15:33:30 - DEBUG - auth.service - login with username: Omer_Kaduri 
+14.4.2024, 15:33:30 - INFO - User signup: | {"_id":"661bcd19e9c8c20c40128228","username":"Omer_Kaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} 
+14.4.2024, 15:33:30 - INFO - Setting socket.userId = 661bcd19e9c8c20c40128228 for socket [id: ZOXxFYi0SfRrYIN1AAAJ] 
+14.4.2024, 15:33:32 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcd19e9c8c20c40128228)
+14.4.2024, 15:33:32 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcd19e9c8c20c40128228)
+14.4.2024, 15:36:34 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:36:48 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:36:48 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:37:18 - INFO - Server is running on port: 3030 
+14.4.2024, 15:37:18 - INFO - New connected socket [id: xqofiM2eo5fwhEQPAAAB] 
+14.4.2024, 15:37:24 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:37:25 - INFO - New connected socket [id: b8yep7VlC7IBnAOmAAAD] 
+14.4.2024, 15:37:25 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: b8yep7VlC7IBnAOmAAAD] 
+14.4.2024, 15:37:27 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:37:27 - INFO - New connected socket [id: _1mf7texyFWdGKruAAAF] 
+14.4.2024, 15:37:27 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: _1mf7texyFWdGKruAAAF] 
+14.4.2024, 15:37:31 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:37:31 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:40:45 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:40:46 - INFO - New connected socket [id: eVXRbmvhYV-pr7LBAAAH] 
+14.4.2024, 15:40:46 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:40:46 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:40:47 - INFO - Setting socket.userId = 661bbe7187402f17ee95dc1c for socket [id: eVXRbmvhYV-pr7LBAAAH] 
+14.4.2024, 15:40:47 - INFO - Sample Logger Middleware (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:40:47 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bbe7187402f17ee95dc1c)
+14.4.2024, 15:42:57 - INFO - Server is running on port: 3030 
+14.4.2024, 15:42:58 - INFO - New connected socket [id: p9vndO63QVte5T9FAAAB] 
+14.4.2024, 15:44:39 - INFO - Server is running on port: 3030 
+14.4.2024, 15:44:39 - INFO - New connected socket [id: uUCqtUexj0K_Obe_AAAB] 
+14.4.2024, 15:44:47 - INFO - Removing socket.userId for socket [id: uUCqtUexj0K_Obe_AAAB] 
+14.4.2024, 15:44:51 - DEBUG - auth.service - signup with username: omerKaduri, fullname: Omer Kaduri 
+14.4.2024, 15:44:52 - DEBUG - auth.service - login with username: omerKaduri 
+14.4.2024, 15:44:52 - DEBUG - auth.route - new account created: {"username":"omerKaduri","password":"$2b$10$ysiP7oCWKJjYtd0S5nYEIeaWTpFmmib4fIvVRRnHUG0BcjeKnfNh2","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png","_id":"661bcfc40bdf9ad1e87768fa"} 
+14.4.2024, 15:44:52 - INFO - User signup: | {"_id":"661bcfc40bdf9ad1e87768fa","username":"omerKaduri","fullname":"Omer Kaduri","imgUrl":"https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"} 
+14.4.2024, 15:44:53 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: uUCqtUexj0K_Obe_AAAB] 
+14.4.2024, 15:45:31 - INFO - Server is running on port: 3030 
+14.4.2024, 15:45:56 - INFO - Server is running on port: 3030 
+14.4.2024, 15:45:56 - INFO - New connected socket [id: 9Fghx0Ah_g1_6BboAAAB] 
+14.4.2024, 15:45:57 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: 9Fghx0Ah_g1_6BboAAAB] 
+14.4.2024, 15:46:00 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:46:00 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:47:06 - INFO - Server is running on port: 3030 
+14.4.2024, 15:47:09 - INFO - New connected socket [id: yYUqHImXBMukQZnqAAAB] 
+14.4.2024, 15:47:17 - INFO - Server is running on port: 3030 
+14.4.2024, 15:47:17 - INFO - New connected socket [id: bc2lfovBakGnuUGSAAAB] 
+14.4.2024, 15:47:23 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:47:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:47:24 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:47:24 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:47:30 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:47:30 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:48:57 - INFO - Server is running on port: 3030 
+14.4.2024, 15:48:58 - INFO - New connected socket [id: lWSoCO3dXgcs2zP0AAAB] 
+14.4.2024, 15:49:16 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:49:17 - INFO - New connected socket [id: S9xLlbvyYAHQ0XmpAAAD] 
+14.4.2024, 15:49:17 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: S9xLlbvyYAHQ0XmpAAAD] 
+14.4.2024, 15:49:23 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:49:23 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:49:52 - INFO - Server is running on port: 3030 
+14.4.2024, 15:49:52 - INFO - New connected socket [id: X2Lm_DPjx7p3DKuFAAAB] 
+14.4.2024, 15:50:08 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:50:08 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:51:01 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:51:01 - INFO - New connected socket [id: _haDwEDA50OFMlDeAAAD] 
+14.4.2024, 15:51:02 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: _haDwEDA50OFMlDeAAAD] 
+14.4.2024, 15:51:02 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:51:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:51:03 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:51:03 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:51:09 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:51:09 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:53:40 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:53:40 - INFO - New connected socket [id: 6pnhIma6mqiQN9vYAAAF] 
+14.4.2024, 15:53:40 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: 6pnhIma6mqiQN9vYAAAF] 
+14.4.2024, 15:53:42 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:53:42 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:53:44 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:53:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:54:21 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:54:21 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:54:30 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 15:54:30 - INFO - New connected socket [id: ragvb7V8uMrETaKLAAAH] 
+14.4.2024, 15:54:31 - ERROR - Cannot get buyer`s Orders  | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:54:31 - ERROR - Failed to get orders | MongoInvalidArgumentError: Argument "pipeline" must be an array of aggregation stages (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 15:54:31 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: ragvb7V8uMrETaKLAAAH] 
+14.4.2024, 16:00:06 - INFO - Server is running on port: 3030 
+14.4.2024, 16:00:06 - INFO - New connected socket [id: _CfsWRiUFP-V25WtAAAB] 
+14.4.2024, 16:00:12 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:00:12 - INFO - New connected socket [id: qJkz7VTHuDHtrN9MAAAD] 
+14.4.2024, 16:00:13 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: qJkz7VTHuDHtrN9MAAAD] 
+14.4.2024, 16:00:49 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:00:49 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:00:49 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:00:49 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:03:29 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:03:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:03:30 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:03:30 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:04:20 - INFO - Server is running on port: 3030 
+14.4.2024, 16:04:20 - INFO - New connected socket [id: Mbw3Eevr3HkQqkuNAAAB] 
+14.4.2024, 16:04:25 - INFO - Server is running on port: 3030 
+14.4.2024, 16:04:26 - INFO - New connected socket [id: YsOYsqxumIEGW3ClAAAB] 
+14.4.2024, 16:04:30 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:04:31 - INFO - New connected socket [id: zwibm9s1q0oA4pUYAAAD] 
+14.4.2024, 16:04:31 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: zwibm9s1q0oA4pUYAAAD] 
+14.4.2024, 16:04:36 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:04:37 - INFO - New connected socket [id: z3r0wY3Zye29S258AAAF] 
+14.4.2024, 16:04:38 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: z3r0wY3Zye29S258AAAF] 
+14.4.2024, 16:04:54 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:04:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:04:55 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:04:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:05:14 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:05:14 - INFO - New connected socket [id: jgbSne1VfnRRutQtAAAH] 
+14.4.2024, 16:05:15 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: jgbSne1VfnRRutQtAAAH] 
+14.4.2024, 16:05:50 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:05:51 - INFO - New connected socket [id: tKZW2ORzZxmFt2fDAAAJ] 
+14.4.2024, 16:05:51 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: tKZW2ORzZxmFt2fDAAAJ] 
+14.4.2024, 16:05:53 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:05:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:05:54 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:05:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:10:45 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:10:45 - INFO - New connected socket [id: KrV5zeVh1Fs_FabfAAAL] 
+14.4.2024, 16:10:45 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: KrV5zeVh1Fs_FabfAAAL] 
+14.4.2024, 16:11:17 - INFO - Server is running on port: 3030 
+14.4.2024, 16:11:17 - INFO - New connected socket [id: vUvoQsSlAqqWS6CmAAAB] 
+14.4.2024, 16:11:19 - INFO - Server is running on port: 3030 
+14.4.2024, 16:11:19 - INFO - New connected socket [id: 2s9JTKmccttVPXSJAAAB] 
+14.4.2024, 16:11:27 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:11:28 - INFO - New connected socket [id: o7T-lB_TS47KTu_fAAAD] 
+14.4.2024, 16:11:28 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: o7T-lB_TS47KTu_fAAAD] 
+14.4.2024, 16:11:29 - INFO - Socket disconnected [id: undefined] 
+14.4.2024, 16:11:30 - INFO - New connected socket [id: aIj6jqlAAKy8Sc-bAAAF] 
+14.4.2024, 16:11:30 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: aIj6jqlAAKy8Sc-bAAAF] 
+14.4.2024, 16:11:33 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:11:33 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:11:35 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:11:35 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:11:59 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:11:59 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:12:00 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:12:00 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:08 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:08 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:08 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:41 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:41 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:16:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:25 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:25 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:25 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:25 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:28 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:28 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"3"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:31 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:17:31 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:32 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:32 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:33 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:33 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:37 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:37 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:38 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:23:38 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:24:34 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:24:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:24:35 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+14.4.2024, 16:24:35 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)

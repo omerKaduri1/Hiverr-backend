@@ -1,4 +1,4 @@
 export default  {
-    dbURL: 'mongodb://127.0.0.1:27017',
+    dbURL: 'mongodb+srv://kaduriomer:wWsxSvYeTwjG92uS@cluster0.divmxob.mongodb.net/',
     dbName : 'HiverrDB'
   }

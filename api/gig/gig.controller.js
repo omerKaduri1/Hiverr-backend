@@ -1,18 +1,22 @@
 import { gigService } from './gig.service.js'
 import { logger } from '../../services/logger.service.js'
+import { userService } from '../user/user.service.js'
 
 export async function getGigs(req, res) {
     try {
         logger.debug('Getting Gigs:', req.query)
-        const filterBy = {
-            txt: req.query.txt || '',
-            category: req.query.category || '',
-            minPrice: req.query.minPrice || '',
-            maxPrice: req.query.maxPrice || Infinity,
-            deliveryTime: req.query.deliveryTime || Infinity,
-            sellerLevel: req.query.sellerLevel || null
-        }
-        const sortBy = req.query.sortBy || 'recommended'
+        console.log('req.query.params:', req.query.params)
+        const { filterBy, sortBy } = req.query.params
+        // const filterBy = {
+        //     txt: req.query.txt || '',
+        //     category: req.query.category || '',
+        //     minPrice: +req.query.minPrice || '',
+        //     maxPrice: +req.query.maxPrice || Infinity,
+        //     deliveryTime: +req.query.deliveryTime || Infinity,
+        //     sellerLevel: req.query.sellerLevel || null
+        // }
+        console.log('filter by from controller', filterBy);
+        // const sortBy = req.query.sortBy || 'recommended'
         const gigs = await gigService.query(filterBy, sortBy)
         res.json(gigs)
     } catch (err) {
@@ -34,10 +38,12 @@ export async function getGigById(req, res) {
 
 export async function addGig(req, res) {
     const { loggedinUser } = req
-    console.log(loggedinUser);
+    const owner = await userService.getById(loggedinUser._id)
+    console.log('owner:', owner)
     try {
         const gig = req.body
-        gig.owner = loggedinUser
+        gig.owner = owner
+        gig.owner.rate = gig.owner.rate || 0
         const addedGig = await gigService.add(gig)
         res.json(addedGig)
     } catch (err) {

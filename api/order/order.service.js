@@ -11,7 +11,7 @@ export async function sellerQuery() {
         const id = loggedinUser._id
 
         const collection = await dbService.getCollection('order')
-        const orders = await collection.aggregate(
+        const orders = await collection.aggregate([
             { $match: { "seller._id": id } },
             { $unwind: "$seller" },
             {
@@ -19,7 +19,7 @@ export async function sellerQuery() {
                     "seller._id": id
                 }
             }
-        ).toArray()
+        ]).toArray()
 
         return orders
     } catch (err) {
@@ -34,7 +34,7 @@ export async function buyerQuery() {
         const id = loggedinUser._id
 
         const collection = await dbService.getCollection('order')
-        const orders = await collection.aggregate(
+        const orders = await collection.aggregate([
             { $match: { "buyer._id": id } },
             { $unwind: "$buyer" },
             {
@@ -42,7 +42,7 @@ export async function buyerQuery() {
                     "buyer._id": id
                 }
             }
-        ).toArray()
+        ]).toArray()
 
         return orders
     } catch (err) {
@@ -68,7 +68,7 @@ export async function add(order) {
 export async function updateStatus(orderId, newStatus) {
     try {
         const collection = await dbService.getCollection('order')
-        const updatedOrder = await collection.findOneAndUpdate({ _id: ObjectId(orderId) }, { $set: { status: newStatus } })
+        const updatedOrder = await collection.findOneAndUpdate({ _id: new ObjectId(orderId) }, { $set: { status: newStatus } })
         return updatedOrder
     } catch (err) {
         logger.error('Cannot update Order status', err)
