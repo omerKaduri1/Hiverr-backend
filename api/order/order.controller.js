@@ -39,9 +39,9 @@ export async function addOrder(req, res) {
 
 export async function updateStatus(req, res) {
     try {
-        const gigId = req.params.id
+        const orderId = req.params.id
         const status = req.body
-        const updatedOrder = await orderService.updateStatus(gigId, status.status)
+        const updatedOrder = await orderService.updateStatus(orderId, status.status)
         res.json(updatedOrder)
     } catch (err) {
         logger.error("Failed to update order status", err)
