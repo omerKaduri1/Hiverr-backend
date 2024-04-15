@@ -20,7 +20,6 @@ export async function sellerQuery() {
                 }
             }
         ]).toArray()
-
         return orders
     } catch (err) {
         logger.error('Cannot get seller`s Orders ', err)
@@ -43,11 +42,10 @@ export async function buyerQuery() {
                 }
             }
         ]).toArray()
-
         return orders
     } catch (err) {
         logger.error('Cannot get buyer`s Orders ', err);
-        throw err;
+        throw err
     }
 }
 
