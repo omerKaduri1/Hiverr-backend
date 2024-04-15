@@ -5,7 +5,6 @@ import { userService } from '../user/user.service.js'
 export async function getGigs(req, res) {
     try {
         logger.debug('Getting Gigs:', req.query)
-        console.log('req.query.params:', req.query.params)
         const { filterBy, sortBy } = req.query.params
         // const filterBy = {
         //     txt: req.query.txt || '',
@@ -15,9 +14,19 @@ export async function getGigs(req, res) {
         //     deliveryTime: +req.query.deliveryTime || Infinity,
         //     sellerLevel: req.query.sellerLevel || null
         // }
-        console.log('filter by from controller', filterBy);
         // const sortBy = req.query.sortBy || 'recommended'
         const gigs = await gigService.query(filterBy, sortBy)
+        res.json(gigs)
+    } catch (err) {
+        logger.error('Failed to get gigs', err)
+        res.status(400).send({ err: 'Failed to get gigs' })
+    }
+}
+
+export async function getUserGigs(req, res) {
+    console.log('getusergigssss')
+    try {
+        const gigs = await gigService.userGigQuery()
         res.json(gigs)
     } catch (err) {
         logger.error('Failed to get gigs', err)
@@ -68,6 +77,7 @@ export async function updateGig(req, res) {
 export async function removeGig(req, res) {
     try {
         const gigId = req.params.id
+        console.log('gigId:', gigId)
         const removedId = await gigService.remove(gigId)
         res.send(removedId)
     } catch (err) {

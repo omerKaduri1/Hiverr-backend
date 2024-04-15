@@ -1,11 +1,12 @@
 import express from 'express'
 import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
 import { log } from '../../middlewares/logger.middleware.js'
-import { getGigs, getGigById, addGig, updateGig, removeGig, addGigReview, removeGigReview } from './gig.controller.js'
+import { getGigs, getGigById, addGig, updateGig, removeGig, addGigReview, removeGigReview, getUserGigs } from './gig.controller.js'
 
 const router = express.Router()
 
 router.get('/', log, getGigs)
+router.get('/usergigs', getUserGigs)
 router.get('/:id', getGigById)
 router.post('/', requireAuth, addGig)
 router.put('/:id', requireAuth, updateGig)

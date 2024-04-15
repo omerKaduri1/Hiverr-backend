@@ -1,17 +1,21 @@
 import { logger } from "../../services/logger.service.js"
 import { orderService } from "./order.service.js"
 
-export async function getOrdersById(req, res) {
-    console.log('req.query.params:', req.query.params)
+export async function getBuyerOrdersById(req, res) {
     try {
-        const filter = JSON.parse(req.query.params)
-        console.log('filter:', filter)
+        let buyerOrders
+        buyerOrders = await orderService.buyerQuery()
+        res.json(buyerOrders)
+    } catch (err) {
+        logger.error("Failed to get orders", err)
+        res.status(500).send({ err: "Failed to get orders" })
+    }
+}
+
+export async function getSellerOrdersById(req, res) {
+    try {
         let orders
-        if (filter.buyer) {
-            orders = await orderService.buyerQuery()
-        } else {
-            orders = await orderService.sellerQuery()
-        }
+        orders = await orderService.sellerQuery()
         res.json(orders)
     } catch (err) {
         logger.error("Failed to get orders", err)
@@ -27,7 +31,6 @@ export async function addOrder(req, res) {
         // order.buyerBack = loggedinUser
         const addedOrder = await orderService.add(order)
         res.json(addedOrder)
-        console.log('addedOrder:', addedOrder)
     } catch (err) {
         logger.error("order.controller: Failed to add orders", err)
         res.status(500).send({ err: "Failed to add orders" })

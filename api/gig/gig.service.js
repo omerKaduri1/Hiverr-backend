@@ -1,3 +1,4 @@
+import { asyncLocalStorage } from '../../services/als.service.js'
 import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
@@ -37,10 +38,9 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
             criteria['owner.rate'] = { $gte: +filterBy.sellerLevel }
         }
 
-        console.log('criteria from service:', criteria)
-
         const collection = await dbService.getCollection('gig')
         const gigs = await collection.find(criteria).toArray()
+
         if (sortBy === 'recommended') {
             gigs.sort((gig1, gig2) => {
                 const gig1ReviewsAvg = utilService.getAvgRating(gig1.reviews)
@@ -52,9 +52,28 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
         } else if (sortBy === 'mostReviewed') {
             gigs.sort((gig1, gig2) => gig2.reviews.length - gig1.reviews.length)
         }
+        
         return gigs
     } catch (err) {
         logger.error('cannot find gigs', err)
+        throw err
+    }
+}
+
+export async function userGigQuery() {
+    try {
+        const { loggedinUser } = asyncLocalStorage.getStore()
+        const id = loggedinUser._id
+        console.log('loggedinUser from service:', loggedinUser)
+        const collection = await dbService.getCollection('gig')
+        const gigs = await collection.aggregate([
+            { $match: { "owner._id": new ObjectId(id) } },
+        ]).toArray()
+        console.log('collection:', collection)
+        console.log('gigs:', gigs)
+        return gigs
+    } catch (err) {
+        logger.error('Cannot get seller`s Gigs ', err)
         throw err
     }
 }
@@ -137,5 +156,6 @@ export const gigService = {
     add,
     update,
     addGigReview,
-    removeGigReview
+    removeGigReview,
+    userGigQuery
 }
