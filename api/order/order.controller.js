@@ -1,4 +1,5 @@
 import { logger } from "../../services/logger.service.js"
+import { socketService } from "../../services/socket.service.js"
 import { orderService } from "./order.service.js"
 
 export async function getBuyerOrdersById(req, res) {
@@ -30,6 +31,11 @@ export async function addOrder(req, res) {
         const order = req.body
         // order.buyerBack = loggedinUser
         const addedOrder = await orderService.add(order)
+        socketService.emitToUser({
+            type: 'new-client-order',
+            data: { username: order.buyer.fullname },
+            userId: order.seller._id
+        })
         res.json(addedOrder)
     } catch (err) {
         logger.error("order.controller: Failed to add orders", err)
@@ -40,8 +46,16 @@ export async function addOrder(req, res) {
 export async function updateStatus(req, res) {
     try {
         const orderId = req.params.id
-        const status = req.body
-        const updatedOrder = await orderService.updateStatus(orderId, status.status)
+        const { status } = req.body
+        const updatedOrder = await orderService.updateStatus(orderId, status)
+        socketService.emitToUser({
+            type: 'order-status-updated',
+            data: {
+                sellerName: updatedOrder.seller.fullname,
+                status: updatedOrder.status
+            },
+            userId: updatedOrder.buyer._id
+        })
         res.json(updatedOrder)
     } catch (err) {
         logger.error("Failed to update order status", err)
