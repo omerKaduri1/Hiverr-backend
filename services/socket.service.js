@@ -48,6 +48,18 @@ export function setupSocketAPI(server) {
             delete socket.userId
         })
 
+        socket.on('new-client-order', order => {
+            logger.info(`New client order received [id: ${socket.id}]`)
+            // Emit event to all connected clients about the new order
+            gIo.emit('new-order', order)
+        })
+
+        socket.on('order-status-updated', updatedOrder => {
+            logger.info(`Order status updated [id: ${socket.id}]`)
+            // Emit event to all connected clients about the updated order
+            gIo.emit('order-status-updated', updatedOrder)
+        })
+
     })
 }
 
