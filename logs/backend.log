@@ -4359,3 +4359,428 @@
 16.4.2024, 19:27:14 - INFO - New connected socket [id: k_OoHCdvtBWVRwoVAAAB] 
 16.4.2024, 19:27:15 - INFO - New connected socket [id: kLL8Xaf7T9QgKN6pAAAD] 
 16.4.2024, 19:27:16 - INFO - New connected socket [id: imFQzTwXhhuYhxKoAAAF] 
+16.4.2024, 19:37:58 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 19:38:01 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 19:40:31 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:42:16 - INFO - New connected socket [id: XUa3dlyus3b5wtXeAAAH] 
+16.4.2024, 20:42:16 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:16 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:17 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:19 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:20 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:20 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:28 - INFO - New connected socket [id: r6aC3_9RVccsQUb2AAAJ] 
+16.4.2024, 20:42:28 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: r6aC3_9RVccsQUb2AAAJ] 
+16.4.2024, 20:42:41 - DEBUG - auth.service - login with username: amitfrid (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:41 - INFO - User login:  | {"_id":"661cd8d3fa88effa66d369ea","username":"amitfrid","fullname":"Amit Frid","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-1/235941344_10223012145805435_6021167499979482366_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1zxDlWhtBEoAb77BqYj&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfB0hUhQA7MUNO6S_Qgsq2rHL8rXYhTEFZ7j_IFHVM-pgA&oe=6622EB69"} (userId: 661bcfc40bdf9ad1e87768fa)
+16.4.2024, 20:42:41 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: XUa3dlyus3b5wtXeAAAH] 
+16.4.2024, 20:42:43 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:42:44 - INFO - New connected socket [id: HTD8iAW-9n_H3RcIAAAL] 
+16.4.2024, 20:42:44 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: HTD8iAW-9n_H3RcIAAAL] 
+16.4.2024, 20:42:45 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:42:45 - INFO - New connected socket [id: E-8U5L6Do8VMKrbCAAAN] 
+16.4.2024, 20:42:46 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: E-8U5L6Do8VMKrbCAAAN] 
+16.4.2024, 20:42:47 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+16.4.2024, 20:42:47 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+16.4.2024, 20:42:48 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+16.4.2024, 20:42:48 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+16.4.2024, 20:43:04 - INFO - Emiting event: new-client-order to user: 661d61853e77d409038cac7a socket [id: HTD8iAW-9n_H3RcIAAAL] (userId: 661cd8d3fa88effa66d369ea)
+16.4.2024, 20:43:04 - INFO - New client order received [id: E-8U5L6Do8VMKrbCAAAN] 
+16.4.2024, 20:43:35 - INFO - Emiting event: order-status-updated to user: 661cd8d3fa88effa66d369ea socket [id: E-8U5L6Do8VMKrbCAAAN] (userId: 661d61853e77d409038cac7a)
+16.4.2024, 20:50:04 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:50:04 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:00:24 - INFO - New connected socket [id: 8TG18GaMRJY6v-oPAAAQ] 
+16.4.2024, 21:00:25 - INFO - New connected socket [id: z2kPMsigbQRoOvT8AAAR] 
+16.4.2024, 21:00:29 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:00:29 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 1:48:36 - INFO - New connected socket [id: YbysLI3iOzfrcv6gAAAV] 
+17.4.2024, 1:48:36 - INFO - New connected socket [id: w_SjE7mgmmhRFQHOAAAU] 
+17.4.2024, 1:50:14 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 1:50:14 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:11:16 - INFO - New connected socket [id: YJE03nL9dTVo71ZmAAAZ] 
+17.4.2024, 9:11:16 - INFO - New connected socket [id: ksTj1vB5VYHr6MvNAAAa] 
+17.4.2024, 9:11:41 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:11:41 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:11:43 - INFO - New connected socket [id: a5z2R8PHP-MvcPbtAAAc] 
+17.4.2024, 9:11:43 - INFO - New connected socket [id: cnIkVgSlcrnlegBMAAAe] 
+17.4.2024, 9:11:43 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: a5z2R8PHP-MvcPbtAAAc] 
+17.4.2024, 9:11:44 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: cnIkVgSlcrnlegBMAAAe] 
+17.4.2024, 9:11:47 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:11:59 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:12:00 - INFO - New connected socket [id: zFF1zdtWqK78nt1yAAAg] 
+17.4.2024, 9:12:01 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: zFF1zdtWqK78nt1yAAAg] 
+17.4.2024, 9:41:16 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:16:36 - INFO - New connected socket [id: SbVlpoYnlZMWlM6JAAAi] 
+17.4.2024, 11:16:37 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: SbVlpoYnlZMWlM6JAAAi] 
+17.4.2024, 11:19:05 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:19:06 - INFO - New connected socket [id: cpJ9SMOV4FdU_5LLAAAk] 
+17.4.2024, 11:19:06 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: cpJ9SMOV4FdU_5LLAAAk] 
+17.4.2024, 11:19:21 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:19:23 - INFO - New connected socket [id: UrWuQTR_tkWMBCJ8AAAm] 
+17.4.2024, 11:19:24 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: UrWuQTR_tkWMBCJ8AAAm] 
+17.4.2024, 11:22:52 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:22:52 - INFO - New connected socket [id: Hf2s3U7w_5fP85dEAAAo] 
+17.4.2024, 11:22:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: Hf2s3U7w_5fP85dEAAAo] 
+17.4.2024, 11:22:59 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:22:59 - INFO - New connected socket [id: jVaFfLY_FtRPtWgqAAAq] 
+17.4.2024, 11:22:59 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: jVaFfLY_FtRPtWgqAAAq] 
+17.4.2024, 11:25:34 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:25:35 - INFO - New connected socket [id: l34e4UsVHoNY0z_iAAAs] 
+17.4.2024, 11:25:35 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: l34e4UsVHoNY0z_iAAAs] 
+17.4.2024, 11:25:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:25:55 - INFO - New connected socket [id: DNL4cCRP5JVCtdGWAAAu] 
+17.4.2024, 11:25:55 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: DNL4cCRP5JVCtdGWAAAu] 
+17.4.2024, 11:26:18 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:26:19 - INFO - New connected socket [id: 9PTlV9VHBcogHYlTAAAw] 
+17.4.2024, 11:26:19 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: 9PTlV9VHBcogHYlTAAAw] 
+17.4.2024, 11:26:51 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:26:52 - INFO - New connected socket [id: _6OdjG5j9uLTBOenAAAy] 
+17.4.2024, 11:26:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: _6OdjG5j9uLTBOenAAAy] 
+17.4.2024, 11:26:55 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:26:56 - INFO - New connected socket [id: _WDMNi5--mMMtROtAAA0] 
+17.4.2024, 11:26:56 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: _WDMNi5--mMMtROtAAA0] 
+17.4.2024, 11:27:34 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:27:35 - INFO - New connected socket [id: uvhksLOPyv4ZfjWUAAA2] 
+17.4.2024, 11:27:35 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: uvhksLOPyv4ZfjWUAAA2] 
+17.4.2024, 11:27:58 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:27:58 - INFO - New connected socket [id: SNX1xxQJis1j-5KgAAA4] 
+17.4.2024, 11:27:58 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: SNX1xxQJis1j-5KgAAA4] 
+17.4.2024, 11:28:24 - INFO - New connected socket [id: rwfesIev4xJsqVfXAAA6] 
+17.4.2024, 11:28:24 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: rwfesIev4xJsqVfXAAA6] 
+17.4.2024, 11:57:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:57:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:57:59 - INFO - New connected socket [id: EAkOrGv9ctWlWPslAAA9] 
+17.4.2024, 11:57:59 - INFO - New connected socket [id: Ml0Wyl-qwaKxbmPzAAA-] 
+17.4.2024, 11:57:59 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: EAkOrGv9ctWlWPslAAA9] 
+17.4.2024, 11:57:59 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: Ml0Wyl-qwaKxbmPzAAA-] 
+17.4.2024, 11:58:50 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:58:50 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:58:55 - INFO - New connected socket [id: HHcZ8uEdLvqbww0YAABB] 
+17.4.2024, 11:58:55 - INFO - New connected socket [id: BoVWssCIOMxJgn88AABC] 
+17.4.2024, 11:58:56 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: HHcZ8uEdLvqbww0YAABB] 
+17.4.2024, 11:58:56 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: BoVWssCIOMxJgn88AABC] 
+17.4.2024, 12:09:47 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:09:47 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:09:55 - INFO - New connected socket [id: NxWJgYcjk07PChn7AABE] 
+17.4.2024, 12:09:56 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: NxWJgYcjk07PChn7AABE] 
+17.4.2024, 12:20:01 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:20:03 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:20:05 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:20:06 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:20:37 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:20:41 - INFO - New connected socket [id: XsDQTlxSnw6LYpvhAABG] 
+17.4.2024, 12:20:42 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: XsDQTlxSnw6LYpvhAABG] 
+17.4.2024, 12:21:53 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:21:55 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:22:19 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:22:20 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:22:22 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:22:23 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:24:04 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:24:08 - INFO - New connected socket [id: x-PBjCHLfy6bLAtCAABI] 
+17.4.2024, 12:24:09 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: x-PBjCHLfy6bLAtCAABI] 
+17.4.2024, 12:24:17 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:25:31 - INFO - New connected socket [id: cFbEUXtfqB-9R9_3AABK] 
+17.4.2024, 12:25:33 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: cFbEUXtfqB-9R9_3AABK] 
+17.4.2024, 12:25:36 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:25:37 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:25:55 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:25:55 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:25:58 - INFO - New connected socket [id: m53pB_XVIFm81uUhAABM] 
+17.4.2024, 12:26:00 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: m53pB_XVIFm81uUhAABM] 
+17.4.2024, 12:26:41 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:26:44 - INFO - New connected socket [id: cP_GuumNBS2Kjp3KAABO] 
+17.4.2024, 12:26:45 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: cP_GuumNBS2Kjp3KAABO] 
+17.4.2024, 12:26:46 - INFO - Removing socket.userId for socket [id: cP_GuumNBS2Kjp3KAABO] 
+17.4.2024, 12:28:13 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:28:19 - INFO - New connected socket [id: PYYmAS801ymEJYNtAABQ] 
+17.4.2024, 12:28:23 - DEBUG - auth.service - login with username: leanne_boro 
+17.4.2024, 12:28:23 - INFO - User login:  | {"_id":"661d61853e77d409038cac7a","username":"leanne_boro","fullname":"Leanne Borowitz","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-6/349951034_594006649375204_4877197310373776319_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WXcb2uDy5xsAb4QCtVM&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfAA9tP4HYaeQ6d3Dv8vhIAHln2jH76zB8t_-Xf7oFRtzg&oe=66233ED7"} 
+17.4.2024, 12:28:23 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: PYYmAS801ymEJYNtAABQ] 
+17.4.2024, 12:28:32 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:28:35 - INFO - New connected socket [id: H5AxIfVzXH2yYluTAABS] 
+17.4.2024, 12:28:35 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: H5AxIfVzXH2yYluTAABS] 
+17.4.2024, 12:28:39 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:28:41 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:30:06 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:30:12 - INFO - New connected socket [id: CvoSrRBP8w-Ho1qYAABV] 
+17.4.2024, 12:30:12 - INFO - New connected socket [id: 8R50AVqe_nabMtLAAABW] 
+17.4.2024, 12:30:13 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: CvoSrRBP8w-Ho1qYAABV] 
+17.4.2024, 12:30:13 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: 8R50AVqe_nabMtLAAABW] 
+17.4.2024, 12:30:21 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:30:23 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:30:24 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:30:53 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:30:55 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:30:57 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:31:05 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:31:06 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:32:06 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:32:06 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:32:23 - INFO - New connected socket [id: vEQvgSZJcQxU8VGMAABY] 
+17.4.2024, 12:32:25 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: vEQvgSZJcQxU8VGMAABY] 
+17.4.2024, 12:33:13 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:33:15 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 12:41:15 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:41:19 - INFO - New connected socket [id: gXD3FFwa0aGZJKH9AABa] 
+17.4.2024, 12:41:22 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: gXD3FFwa0aGZJKH9AABa] 
+17.4.2024, 12:41:49 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:41:57 - INFO - New connected socket [id: P-ityhXg-GJ4xiS5AABe] 
+17.4.2024, 12:41:57 - INFO - New connected socket [id: rDUjIa71qPbRzd8YAABd] 
+17.4.2024, 12:42:00 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: rDUjIa71qPbRzd8YAABd] 
+17.4.2024, 12:42:00 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: P-ityhXg-GJ4xiS5AABe] 
+17.4.2024, 12:44:35 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:44:35 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:44:51 - INFO - New connected socket [id: Hpe1RvYrAZ3UGEM9AABg] 
+17.4.2024, 12:44:54 - INFO - New connected socket [id: h6rOB5MRRho7ATpdAABi] 
+17.4.2024, 12:44:54 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: Hpe1RvYrAZ3UGEM9AABg] 
+17.4.2024, 12:44:54 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: h6rOB5MRRho7ATpdAABi] 
+17.4.2024, 12:46:29 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:46:29 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:46:37 - INFO - New connected socket [id: w_ZZ9yHF5Rkhp0lIAABk] 
+17.4.2024, 12:46:39 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: w_ZZ9yHF5Rkhp0lIAABk] 
+17.4.2024, 12:48:06 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:48:16 - INFO - New connected socket [id: uN-_xjH9YjcHMrgtAABm] 
+17.4.2024, 12:48:16 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: uN-_xjH9YjcHMrgtAABm] 
+17.4.2024, 12:48:16 - INFO - New connected socket [id: cAmBHMPfo8zw5TmtAABo] 
+17.4.2024, 12:48:17 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: cAmBHMPfo8zw5TmtAABo] 
+17.4.2024, 12:48:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:48:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:48:58 - INFO - New connected socket [id: bBggNyJb9Dg0MotrAABq] 
+17.4.2024, 12:49:00 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: bBggNyJb9Dg0MotrAABq] 
+17.4.2024, 12:49:50 - INFO - New connected socket [id: epWSzkWSk_uQHDCyAABs] 
+17.4.2024, 12:49:50 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: epWSzkWSk_uQHDCyAABs] 
+17.4.2024, 12:54:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:54:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:54:50 - INFO - New connected socket [id: uOtrOD6V7A5IIgdpAABv] 
+17.4.2024, 12:54:50 - INFO - New connected socket [id: kKKrd7Ahg23KS6YbAABw] 
+17.4.2024, 12:54:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: uOtrOD6V7A5IIgdpAABv] 
+17.4.2024, 12:54:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: kKKrd7Ahg23KS6YbAABw] 
+17.4.2024, 12:56:35 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:56:35 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:56:37 - INFO - New connected socket [id: -nIYVQhIXIHJmIH1AABy] 
+17.4.2024, 12:56:39 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: -nIYVQhIXIHJmIH1AABy] 
+17.4.2024, 12:57:02 - INFO - New connected socket [id: -B1uQrJKGmbbeC_cAAB0] 
+17.4.2024, 12:57:02 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: -B1uQrJKGmbbeC_cAAB0] 
+17.4.2024, 12:57:30 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:57:30 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:57:32 - INFO - New connected socket [id: sM7z0h0B4HrtbfurAAB2] 
+17.4.2024, 12:57:32 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: sM7z0h0B4HrtbfurAAB2] 
+17.4.2024, 13:00:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:00:45 - INFO - New connected socket [id: qqdOoMbORGaUfNVLAAB4] 
+17.4.2024, 13:00:48 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: qqdOoMbORGaUfNVLAAB4] 
+17.4.2024, 13:02:27 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:02:29 - INFO - New connected socket [id: dMMZQ7pdGoCizVnEAAB6] 
+17.4.2024, 13:02:31 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: dMMZQ7pdGoCizVnEAAB6] 
+17.4.2024, 13:02:38 - INFO - New connected socket [id: 8zzpiLHpVIoKEi_6AAB8] 
+17.4.2024, 13:02:38 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: 8zzpiLHpVIoKEi_6AAB8] 
+17.4.2024, 13:02:46 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:02:46 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:02:47 - INFO - New connected socket [id: VIPfCka2DApIxU9NAAB-] 
+17.4.2024, 13:02:48 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: VIPfCka2DApIxU9NAAB-] 
+17.4.2024, 13:04:52 - INFO - New connected socket [id: Rf5N8i0mnA-R4muJAACA] 
+17.4.2024, 13:04:54 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: Rf5N8i0mnA-R4muJAACA] 
+17.4.2024, 13:06:25 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:06:27 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:06:29 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:06:31 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:07:48 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:07:50 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:08:25 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:08:25 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:08:28 - INFO - New connected socket [id: 5O7b4mOY0J_UkOz-AACC] 
+17.4.2024, 13:08:29 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: 5O7b4mOY0J_UkOz-AACC] 
+17.4.2024, 13:08:39 - INFO - No active socket for user: 661bcfc40bdf9ad1e87768fa (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:08:44 - INFO - No active socket for user: 661bcfc40bdf9ad1e87768fa (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:13:07 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:13:12 - INFO - New connected socket [id: MaGcuYJv3mx3NXDCAACE] 
+17.4.2024, 13:13:14 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: MaGcuYJv3mx3NXDCAACE] 
+17.4.2024, 13:18:25 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:18:35 - INFO - New connected socket [id: oEFixSlpndqI3W3RAACG] 
+17.4.2024, 13:18:37 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: oEFixSlpndqI3W3RAACG] 
+17.4.2024, 13:18:43 - INFO - No active socket for user: 661bcfc40bdf9ad1e87768fa (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:19:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:19:51 - INFO - New connected socket [id: w8cyk5rZNorjaZjlAACI] 
+17.4.2024, 13:19:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: w8cyk5rZNorjaZjlAACI] 
+17.4.2024, 13:21:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:21:49 - INFO - New connected socket [id: yepFr9cN_WimUPOMAACL] 
+17.4.2024, 13:21:51 - INFO - New connected socket [id: _SYJFonsyAqwQ9pfAACM] 
+17.4.2024, 13:21:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: yepFr9cN_WimUPOMAACL] 
+17.4.2024, 13:21:52 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: _SYJFonsyAqwQ9pfAACM] 
+17.4.2024, 13:22:11 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:22:11 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:22:17 - INFO - New connected socket [id: 5n6OQ5zVw_5u_uBYAACO] 
+17.4.2024, 13:22:18 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: 5n6OQ5zVw_5u_uBYAACO] 
+17.4.2024, 13:23:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:23:53 - INFO - New connected socket [id: gXljubI6QmGZJrk2AACQ] 
+17.4.2024, 13:23:55 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: gXljubI6QmGZJrk2AACQ] 
+17.4.2024, 13:35:40 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:35:48 - INFO - New connected socket [id: HyIU99K_6o4JV2ZEAACS] 
+17.4.2024, 13:40:43 - INFO - Server is running on port: 3030 
+17.4.2024, 13:41:55 - INFO - New connected socket [id: rvgHUvZXp-KkcPwJAAAB] 
+17.4.2024, 13:41:59 - DEBUG - auth.service - login with username: OmerKaduri (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:01 - DEBUG - auth.service - login with username: OmerKaduri (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:04 - ERROR - Failed to Login Invalid username or password (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:04 - ERROR - Failed to Login Invalid username or password (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:05 - DEBUG - auth.service - login with username: leanne_boro (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:07 - INFO - User login:  | {"_id":"661d61853e77d409038cac7a","username":"leanne_boro","fullname":"Leanne Borowitz","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-6/349951034_594006649375204_4877197310373776319_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WXcb2uDy5xsAb4QCtVM&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfAA9tP4HYaeQ6d3Dv8vhIAHln2jH76zB8t_-Xf7oFRtzg&oe=66233ED7"} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:07 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:42:10 - INFO - New connected socket [id: o_BeJCLM3kMITBbUAAAD] 
+17.4.2024, 13:42:18 - DEBUG - auth.service - login with username: leanne_boro (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:18 - INFO - User login:  | {"_id":"661d61853e77d409038cac7a","username":"leanne_boro","fullname":"Leanne Borowitz","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-6/349951034_594006649375204_4877197310373776319_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WXcb2uDy5xsAb4QCtVM&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfAA9tP4HYaeQ6d3Dv8vhIAHln2jH76zB8t_-Xf7oFRtzg&oe=66233ED7"} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:19 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: o_BeJCLM3kMITBbUAAAD] 
+17.4.2024, 13:42:25 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:27 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:28 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:42:35 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:44:26 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:44:27 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:44:29 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:44:30 - INFO - No active socket for user: 661cd8d3fa88effa66d369ea (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:44:34 - INFO - No active socket for user: 661bcfc40bdf9ad1e87768fa (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:44:36 - INFO - No active socket for user: 661bcfc40bdf9ad1e87768fa (userId: 661d61853e77d409038cac7a)
+17.4.2024, 13:45:20 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:45:23 - INFO - New connected socket [id: mzyIT0Girhb7ojjGAAAF] 
+17.4.2024, 13:45:23 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: mzyIT0Girhb7ojjGAAAF] 
+17.4.2024, 14:34:36 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 14:34:37 - INFO - New connected socket [id: mCgUJZxP283QlRkNAAAH] 
+17.4.2024, 14:34:38 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: mCgUJZxP283QlRkNAAAH] 
+17.4.2024, 14:36:44 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 14:36:48 - INFO - New connected socket [id: ykUWRwBrfGMqsw2vAAAJ] 
+17.4.2024, 14:36:49 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: ykUWRwBrfGMqsw2vAAAJ] 
+17.4.2024, 14:36:50 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:36:50 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:36:51 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:36:51 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:38:34 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 14:38:35 - INFO - New connected socket [id: krzAqkpKwTy2R0ZDAAAL] 
+17.4.2024, 14:38:36 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: krzAqkpKwTy2R0ZDAAAL] 
+17.4.2024, 14:43:53 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:43:53 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:43:54 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:43:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:18 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:19 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:22 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:22 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:23 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:23 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:25 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:25 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:25 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:25 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"233","minPrice":"155","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:28 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"233","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"233","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:29 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:31 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"155","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:31 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:34 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:35 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:35 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:39 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"40","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:39 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:39 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"40","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"40","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:41 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:41 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"40","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 14:49:41 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:04:41 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:05:07 - INFO - New connected socket [id: WvoI_4Yh91w09pReAAAN] 
+17.4.2024, 15:05:09 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: WvoI_4Yh91w09pReAAAN] 
+17.4.2024, 15:08:17 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:08:17 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:08:18 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:08:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:10:14 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:10:14 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:10:15 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:10:15 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:11:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:11:29 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:11:30 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:11:30 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:13:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:13:02 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:13:02 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:13:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:17:00 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:17:03 - INFO - New connected socket [id: uTRNNd0lobjA7xlJAAAP] 
+17.4.2024, 15:17:04 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: uTRNNd0lobjA7xlJAAAP] 
+17.4.2024, 15:26:58 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:27:07 - INFO - New connected socket [id: GaN5hKSVDt_sXOg0AAAR] 
+17.4.2024, 15:27:07 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: GaN5hKSVDt_sXOg0AAAR] 
+17.4.2024, 15:34:20 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:36:08 - INFO - New connected socket [id: o7hXFW3MDfOzbY1BAAAT] 
+17.4.2024, 15:36:18 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:36:18 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:36:19 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:36:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:39:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:39:50 - INFO - New connected socket [id: EXZpqCHsbukAF5f9AAAV] 
+17.4.2024, 15:39:56 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:39:56 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:39:57 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:39:57 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:05 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"40","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:05 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:05 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"40","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:06 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:06 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"40","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:07 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"40","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:07 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:11 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:40:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"40","minPrice":"","deliveryTime":"3","sellerLevel":"0"},"sortBy":"mostReviewed"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:19 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:19 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:19 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:31 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:31 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 15:50:31 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:51:43 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:51:43 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:51:44 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:51:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:52:10 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:52:10 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:52:11 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:52:11 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:53:26 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 16:53:28 - INFO - New connected socket [id: Ft3tg7m_N3mW4JInAAAX] 
+17.4.2024, 16:53:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:53:44 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:53:45 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 16:53:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:09:00 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 17:12:25 - INFO - New connected socket [id: DqVbn1ysbxMOxSRCAAAZ] 
+17.4.2024, 17:12:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:12:34 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:12:34 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:12:34 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:28:57 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 17:44:00 - INFO - New connected socket [id: vXB-GE5hl00K-7n_AAAb] 
+17.4.2024, 17:44:01 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:44:01 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:44:02 - INFO - Sample Logger Middleware (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:44:02 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 17:47:06 - INFO - Server is running on port: 3030 
+17.4.2024, 17:47:06 - INFO - New connected socket [id: -7gLXRGbzeNz1Ot4AAAB] 
+17.4.2024, 17:57:57 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:38:21 - INFO - New connected socket [id: FaxN3o6Dj1vACEGbAAAE] 
+17.4.2024, 18:53:42 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:53:43 - INFO - New connected socket [id: zB8oJDYFCkdBd28hAAAG] 
+17.4.2024, 18:59:11 - DEBUG - auth.service - login with username: leanne_boro (userId: 661d61853e77d409038cac7a)
+17.4.2024, 18:59:13 - INFO - User login:  | {"_id":"661d61853e77d409038cac7a","username":"leanne_boro","fullname":"Leanne Borowitz","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-6/349951034_594006649375204_4877197310373776319_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WXcb2uDy5xsAb4QCtVM&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfAA9tP4HYaeQ6d3Dv8vhIAHln2jH76zB8t_-Xf7oFRtzg&oe=66233ED7"} (userId: 661d61853e77d409038cac7a)
+17.4.2024, 18:59:13 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: zB8oJDYFCkdBd28hAAAG] 
+17.4.2024, 19:12:04 - INFO - Socket disconnected [id: undefined] 
