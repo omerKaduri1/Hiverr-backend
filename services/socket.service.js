@@ -51,7 +51,10 @@ export function setupSocketAPI(server) {
         socket.on('new-client-order', order => {
             logger.info(`New client order received [id: ${socket.id}]`)
             // Emit event to all connected clients about the new order
-            gIo.emit('new-order', order)
+            // gIo.emit('new-client-order', order)
+            if (order.seller?._id) {
+                gIo.to('watching:' + order.seller._id).emit('new-client-order', order)
+            }
         })
 
         socket.on('order-status-updated', updatedOrder => {
