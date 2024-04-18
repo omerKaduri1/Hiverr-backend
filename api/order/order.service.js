@@ -20,7 +20,8 @@ export async function sellerQuery() {
                 }
             }
         ]).toArray()
-        return orders
+        const sortedOrders = orders.sort((order1, order2) => order2.createdAt - order1.createdAt)
+        return sortedOrders
     } catch (err) {
         logger.error('Cannot get seller`s Orders ', err)
         throw err

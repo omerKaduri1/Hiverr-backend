@@ -5433,3 +5433,62 @@
 18.4.2024, 15:19:45 - INFO - Server is running on port: 3030 
 18.4.2024, 15:19:46 - INFO - New connected socket [id: jNdWcrWegD4G7sFXAAAB] 
 18.4.2024, 15:19:47 - INFO - New connected socket [id: Lt4MWyqustpUaVstAAAD] 
+18.4.2024, 15:37:03 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:37:43 - INFO - New connected socket [id: 3jvDeVcJnvPaO31VAAAF] 
+18.4.2024, 15:37:43 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: 3jvDeVcJnvPaO31VAAAF] 
+18.4.2024, 15:51:33 - INFO - Server is running on port: 3030 
+18.4.2024, 15:51:36 - INFO - New connected socket [id: 6WAkRlQMiqzVO4Y-AAAB] 
+18.4.2024, 15:52:38 - INFO - New connected socket [id: eG0SyuqNjXCoD_CEAAAD] 
+18.4.2024, 15:52:39 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: eG0SyuqNjXCoD_CEAAAD] 
+18.4.2024, 15:52:43 - INFO - Removing socket.userId for socket [id: eG0SyuqNjXCoD_CEAAAD] 
+18.4.2024, 15:52:52 - DEBUG - auth.service - login with username: leanneboro 
+18.4.2024, 15:52:54 - ERROR - Failed to Login Invalid username or password 
+18.4.2024, 15:52:56 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:52:59 - INFO - New connected socket [id: 9dD0D6bbHl7517vDAAAF] 
+18.4.2024, 15:53:02 - DEBUG - auth.service - login with username: leanneboro 
+18.4.2024, 15:53:02 - ERROR - Failed to Login Invalid username or password 
+18.4.2024, 15:53:05 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:53:11 - INFO - New connected socket [id: -s0fglik8LIloqO0AAAH] 
+18.4.2024, 15:53:53 - INFO - Server is running on port: 3030 
+18.4.2024, 15:53:54 - INFO - New connected socket [id: 3KsEuZ7jrBhBvJryAAAB] 
+18.4.2024, 15:53:59 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:54:01 - INFO - New connected socket [id: M51SRC4-xXvamgELAAAD] 
+18.4.2024, 15:54:03 - INFO - New connected socket [id: GUOCaZUB16FwNJEaAAAF] 
+18.4.2024, 15:54:11 - DEBUG - auth.service - login with username: leanne_boro 
+18.4.2024, 15:54:13 - INFO - User login:  | {"_id":"661d61853e77d409038cac7a","username":"leanne_boro","fullname":"Leanne Borowitz","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-6/349951034_594006649375204_4877197310373776319_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WXcb2uDy5xsAb4QCtVM&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfAA9tP4HYaeQ6d3Dv8vhIAHln2jH76zB8t_-Xf7oFRtzg&oe=66233ED7"} 
+18.4.2024, 15:54:13 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: GUOCaZUB16FwNJEaAAAF] 
+18.4.2024, 15:56:57 - INFO - Server is running on port: 3030 
+18.4.2024, 15:57:00 - INFO - New connected socket [id: i9POlwmr9Ii7pjqsAAAB] 
+18.4.2024, 15:58:04 - INFO - Server is running on port: 3030 
+18.4.2024, 15:58:05 - INFO - New connected socket [id: uP0A7HISkLUDWqjqAAAC] 
+18.4.2024, 15:58:05 - INFO - New connected socket [id: 39TiUAW-9B5IB6x6AAAD] 
+18.4.2024, 15:58:58 - INFO - Server is running on port: 3030 
+18.4.2024, 15:58:58 - INFO - New connected socket [id: 7iTOsOtsv77OMFaGAAAB] 
+18.4.2024, 15:59:07 - INFO - New connected socket [id: AuHPn8t4qc-VekMjAAAD] 
+18.4.2024, 15:59:10 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:59:14 - INFO - New connected socket [id: gOomJt4_Gjwbp-jIAAAF] 
+18.4.2024, 15:59:15 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: gOomJt4_Gjwbp-jIAAAF] 
+18.4.2024, 15:59:25 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:59:32 - INFO - New connected socket [id: lpv9fGfkHrzjMqU5AAAH] 
+18.4.2024, 15:59:32 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: lpv9fGfkHrzjMqU5AAAH] 
+18.4.2024, 15:59:33 - INFO - Emiting event: order-status-updated to user: 661bcfc40bdf9ad1e87768fa socket [id: lpv9fGfkHrzjMqU5AAAH] (userId: 661d61853e77d409038cac7a)
+18.4.2024, 15:59:34 - INFO - Emiting event: order-status-updated to user: 661bcfc40bdf9ad1e87768fa socket [id: lpv9fGfkHrzjMqU5AAAH] (userId: 661d61853e77d409038cac7a)
+18.4.2024, 15:59:35 - INFO - Emiting event: order-status-updated to user: 661bcfc40bdf9ad1e87768fa socket [id: lpv9fGfkHrzjMqU5AAAH] (userId: 661d61853e77d409038cac7a)
+18.4.2024, 15:59:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+18.4.2024, 15:59:44 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+18.4.2024, 15:59:45 - INFO - Sample Logger Middleware (userId: 661bcfc40bdf9ad1e87768fa)
+18.4.2024, 15:59:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661bcfc40bdf9ad1e87768fa)
+18.4.2024, 15:59:52 - INFO - Emiting event: new-client-order to user: 661d61853e77d409038cac7a socket [id: gOomJt4_Gjwbp-jIAAAF] (userId: 661bcfc40bdf9ad1e87768fa)
+18.4.2024, 15:59:52 - INFO - New client order received [id: lpv9fGfkHrzjMqU5AAAH] 
+18.4.2024, 15:59:53 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:59:56 - INFO - New connected socket [id: DCeZe4nH8rHsdFAhAAAJ] 
+18.4.2024, 15:59:57 - INFO - Setting socket.userId = 661d61853e77d409038cac7a for socket [id: DCeZe4nH8rHsdFAhAAAJ] 
+18.4.2024, 16:04:01 - INFO - Server is running on port: 3030 
+18.4.2024, 16:04:03 - INFO - New connected socket [id: RRkPT2p48rpo2IkAAAAB] 
+18.4.2024, 16:04:04 - INFO - New connected socket [id: 8zzIPpBGMHSVRDPxAAAD] 
+18.4.2024, 16:04:10 - INFO - Server is running on port: 3030 
+18.4.2024, 16:04:11 - INFO - New connected socket [id: FXhnYw55woWJl-KUAAAB] 
+18.4.2024, 16:04:12 - INFO - New connected socket [id: ExpUcA3ZWJ1kzRBrAAAD] 
+18.4.2024, 16:04:24 - INFO - Server is running on port: 3030 
+18.4.2024, 16:04:25 - INFO - New connected socket [id: sfEGjxsYsnldyLBQAAAC] 
+18.4.2024, 16:04:25 - INFO - New connected socket [id: z-wfibyhqHuSXN5NAAAD] 
