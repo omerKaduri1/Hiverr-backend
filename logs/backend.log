@@ -5397,3 +5397,39 @@
 18.4.2024, 12:34:07 - DEBUG - auth.service - login with username: amitfrid 
 18.4.2024, 12:34:07 - INFO - User login:  | {"_id":"661cd8d3fa88effa66d369ea","username":"amitfrid","fullname":"Amit Frid","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-1/235941344_10223012145805435_6021167499979482366_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1zxDlWhtBEoAb77BqYj&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfB0hUhQA7MUNO6S_Qgsq2rHL8rXYhTEFZ7j_IFHVM-pgA&oe=6622EB69"} 
 18.4.2024, 12:34:07 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: kxKKqcCaUnXoAOWMAAAX] 
+18.4.2024, 12:42:53 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:42:54 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 13:01:18 - INFO - New connected socket [id: 6PgrY5kKK7148qEFAAAa] 
+18.4.2024, 13:01:19 - INFO - New connected socket [id: mMnEpX7ziqN0FepIAAAb] 
+18.4.2024, 13:01:42 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 13:01:42 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:41:56 - INFO - New connected socket [id: 1trVRaJWO4hRKd-lAAAe] 
+18.4.2024, 14:41:56 - INFO - New connected socket [id: eYi6xc_aOAtIGpETAAAf] 
+18.4.2024, 14:42:03 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:42:03 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:42:06 - INFO - New connected socket [id: BfD6QYV3Q2-rAzTuAAAh] 
+18.4.2024, 14:42:07 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: BfD6QYV3Q2-rAzTuAAAh] 
+18.4.2024, 14:42:07 - INFO - New connected socket [id: oR-_JuXPolkvhr2ZAAAj] 
+18.4.2024, 14:42:08 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: oR-_JuXPolkvhr2ZAAAj] 
+18.4.2024, 14:44:19 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:44:20 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:44:29 - INFO - New connected socket [id: eUuVsvKZZNVDtfV8AAAl] 
+18.4.2024, 14:44:29 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: eUuVsvKZZNVDtfV8AAAl] 
+18.4.2024, 14:44:29 - INFO - New connected socket [id: sb6Mh6d0VJ9I8EEyAAAn] 
+18.4.2024, 14:44:30 - INFO - Setting socket.userId = 661bcfc40bdf9ad1e87768fa for socket [id: sb6Mh6d0VJ9I8EEyAAAn] 
+18.4.2024, 14:51:37 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:51:42 - INFO - New connected socket [id: 65epiDQrOlkSCUsgAAAp] 
+18.4.2024, 14:51:42 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: 65epiDQrOlkSCUsgAAAp] 
+18.4.2024, 14:54:08 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:54:11 - INFO - New connected socket [id: Mkbk1HDmR_bVSRc0AAAr] 
+18.4.2024, 14:54:11 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: Mkbk1HDmR_bVSRc0AAAr] 
+18.4.2024, 15:05:29 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 15:05:32 - INFO - New connected socket [id: SLkq0Zi4nAI2vzkmAAAt] 
+18.4.2024, 15:05:32 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: SLkq0Zi4nAI2vzkmAAAt] 
+18.4.2024, 15:08:28 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+18.4.2024, 15:08:28 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+18.4.2024, 15:08:29 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+18.4.2024, 15:08:29 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+18.4.2024, 15:19:45 - INFO - Server is running on port: 3030 
+18.4.2024, 15:19:46 - INFO - New connected socket [id: jNdWcrWegD4G7sFXAAAB] 
+18.4.2024, 15:19:47 - INFO - New connected socket [id: Lt4MWyqustpUaVstAAAD] 
