@@ -5592,3 +5592,22 @@
 20.4.2024, 19:34:34 - INFO - Socket disconnected [id: undefined] 
 21.4.2024, 9:26:54 - INFO - Server is running on port: 3030 
 21.4.2024, 9:28:27 - INFO - Server is running on port: 3030 
+21.4.2024, 11:11:15 - INFO - Server is running on port: 3030 
+21.4.2024, 11:11:45 - INFO - New connected socket [id: DiV8yVvNsAuoV6wgAAAB] 
+21.4.2024, 11:14:34 - DEBUG - auth.service - login with username: amitfrid 
+21.4.2024, 11:14:38 - INFO - User login:  | {"_id":"661cd8d3fa88effa66d369ea","username":"amitfrid","fullname":"Amit Frid","imgUrl":"https://scontent.ftlv19-1.fna.fbcdn.net/v/t39.30808-1/235941344_10223012145805435_6021167499979482366_n.jpg?stp=c0.0.160.160a_dst-jpg_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=est15hs1fZ4Ab7Njs1M&_nc_ht=scontent.ftlv19-1.fna&oh=00_AfAl4cc7ELZhS2LHxs79SIy5lWXWqQMNNvPygjrt4AdRtg&oe=662A9C29"} 
+21.4.2024, 11:14:38 - INFO - Setting socket.userId = 661cd8d3fa88effa66d369ea for socket [id: DiV8yVvNsAuoV6wgAAAB] 
+21.4.2024, 11:14:44 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:45 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:54 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:54 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:55 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:14:55 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:15:44 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:15:44 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:15:45 - DEBUG - Getting Gigs: | {"params":{"filterBy":{"category":"graphics-design","maxPrice":"Infinity","minPrice":"","deliveryTime":"Infinity","sellerLevel":"0"},"sortBy":"recommended"}} (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:15:45 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:15:54 - INFO - No active socket for user: 661d61853e77d409038cac7a (userId: 661cd8d3fa88effa66d369ea)
+21.4.2024, 11:15:54 - INFO - New client order received [id: DiV8yVvNsAuoV6wgAAAB] 
