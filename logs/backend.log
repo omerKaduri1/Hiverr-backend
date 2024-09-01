@@ -5611,3 +5611,4 @@
 21.4.2024, 11:15:45 - INFO - Sample Logger Middleware (userId: 661cd8d3fa88effa66d369ea)
 21.4.2024, 11:15:54 - INFO - No active socket for user: 661d61853e77d409038cac7a (userId: 661cd8d3fa88effa66d369ea)
 21.4.2024, 11:15:54 - INFO - New client order received [id: DiV8yVvNsAuoV6wgAAAB] 
+21.4.2024, 11:19:06 - INFO - Socket disconnected [id: undefined] 
